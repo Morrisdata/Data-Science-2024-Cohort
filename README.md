@@ -25,18 +25,15 @@ Self Evaluation
 |17|Intro to Time Series|18|Flex subject and Class time|
 |19|Flex day, review, catchup, workshop|20|PRESENTATION|
 
-# Additional Python Training
-
-
-# Python_for_Data(optional Prework)
-* A look at the applications used and why
-* What can you do with Python? Why not learn R or SPSS Modeler?
-* Basic setup covered in [DataScience101](https://github.com/Morrisdata/DataScience101)
 
 # Python for Data I
 Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
 
+
+
+|Python Resources|
+|:-------|:-----|
 |UNITS|
 |:----|
 |[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/tree/master/Workbook)|
@@ -47,10 +44,6 @@ Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Py
 |[06 Data Structures]|
 |[07 Loops and Lists]|
 
-
-
-|Python Resources|
-|:-------|:-----|
 |[Learn Python the Hardway walk through](https://www.youtube.com/playlist?list=PLCHnubFzFwjJVEvQk-FuEynAuwGV_4BNS)|This is a great way to dig into deep basic syntax with a guide!|
 |[Learn Python the Hardway](https://learnpythonthehardway.org/)|Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15.| 
 |[Codecademy](https://www.codecademy.com/learn/python)|Repeat, repeat repeat, just another avenue to reinforce everything your learning|
