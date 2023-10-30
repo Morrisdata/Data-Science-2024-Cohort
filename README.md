@@ -29,12 +29,7 @@ Self Evaluation
 # Python for Data I
 Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
-
-
-
-|Python Resources|
-|:-------|:-----|
-|UNITS|
+|Python for Data I|
 |:----|
 |[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/tree/master/Workbook)|
 |[02 Math, Boolean and 3 value logic](https://github.com/Morrisdata/Python_for_Data_I/blob/master/Workbook/PD01Unit02a_Worksheet)|
@@ -44,13 +39,13 @@ Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Py
 |[06 Data Structures]|
 |[07 Loops and Lists]|
 
+
+|Python Resources|
+|:-------|:-----|
 |[Learn Python the Hardway walk through](https://www.youtube.com/playlist?list=PLCHnubFzFwjJVEvQk-FuEynAuwGV_4BNS)|This is a great way to dig into deep basic syntax with a guide!|
 |[Learn Python the Hardway](https://learnpythonthehardway.org/)|Remember that walkthrough video, try it without the video, gets a bit more real after about exercise 15.| 
 |[Codecademy](https://www.codecademy.com/learn/python)|Repeat, repeat repeat, just another avenue to reinforce everything your learning|
 
-**Recommended Resources**
-
-***Python General***
 
 |Name | Description|
 |:-------|:-----|
