@@ -26,10 +26,10 @@ Self Evaluation
 |19|Flex day, review, catchup, workshop|20|PRESENTATION|
 
 
-# Python for Data I
+# Python Resources
 Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Pycharm or code editor for exercises
 
-|Python for Data I|
+|Python for Data I -morris|
 |:----|
 |[01 Python for data Intro](https://github.com/Morrisdata/Python_for_Data_I/tree/master/Workbook)|
 |[02 Math, Boolean and 3 value logic](https://github.com/Morrisdata/Python_for_Data_I/blob/master/Workbook/PD01Unit02a_Worksheet)|
