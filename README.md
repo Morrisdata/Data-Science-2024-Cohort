@@ -14,7 +14,7 @@ Self Evaluation
 
 |DATE|CLASS|DATE|CLASS|
 |:---|:----|:---|:----|
-01|Orientation and Review|02|Development Environment|
+01|Orientation and Review|02|Development Environment [code](https://github.com/Morrisdata/DS/blob/master/code/02_development_environment)|
 |03|Python Foundations|04|Presentations|
 |05|Exploratory Data Analysis(EDA) in Pandas|06|Data Visualization in Python|
 |07|Statistics in Python|08|Experiments and Hypothesis Testing|
