@@ -3,7 +3,9 @@ This Cohort is meant as an expedited ramp up on the skills for Data Science. The
 
 Data Science has been evolving and shaping over the last decade and can be defined differently even within one company. Some may define it as AI and ML others as Data Engineering with Predictive Modeling. While others just grab-bag of Technical Project Management and Data Wrangling. 
 
-The goal everyone should have in this class is to move the needle at least 1 or 2 points on the below self evaluation. Teaching and mentoring is a proven way to grow or reinforce knowledge. Highly encourage study groups and/or volunteering to share on a subject of your interest related to course content or complimentary to it. Please reach out if you are interested in sharing. 
+The content in this class is meant to give a bootcamp styled foundational knowledge and application to begin their journey into the field of Data Science. 
+
+The goal everyone should have in this class is to move the needle at least 1 or 2 points on the below self-evaluation. Teaching and mentoring is a proven way to grow or reinforce knowledge. Highly encourage study groups and/or volunteering to share on a subject of your interest related to course content or complimentary to it. Please reach out if you are interested in sharing or if you feel you are at a 4 or 5 volunteered presentations to fortify your own knowledge while sharing are welcome. 
 Self Evaluation
 * 0 - Do not know
 * 1 - Aquiring knowledge ( studied or attempted in last 30 days)
