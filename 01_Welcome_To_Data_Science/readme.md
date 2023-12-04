@@ -15,9 +15,8 @@ Before this lesson you should already be able to:
 **Topics/Highlights**
 * Welcome from General Assembly!
 * Slides ([01_Welcome to Data Science.pdf](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf))
-* What is data science ([slides](slides/01_data_science_intro.pdf))
-* Hands-on with the Data Science Dev Environment (Anaconda, Spyder IDE, iPython notebooks) 
-* Get a head start ([class data](https://github.com/Morrisdata/data)) ([public_data]())       ([Anaconda]()) 
+* Get a head start ([class data](https://github.com/Morrisdata/data))
+* *([public_data]())       ([Anaconda]()) 
 
 <!--		* Our very own Kevin McAlear's [Hater News DAT project](http://haternews.co/?network=twitter) on the GA gallery
 -->
