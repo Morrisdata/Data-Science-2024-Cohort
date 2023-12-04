@@ -25,7 +25,10 @@ Slack
 
 Email
 
-
+* Get a head start
+  - ([class data](https://github.com/Morrisdata/data))
+  - ([public_data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0))
+  - [Anaconda](https://www.anaconda.com/download)
 
 Course outline may adjust depending on time. There is a lot of content to cover in a short period of time. 
 |DATE|CLASS|DATE|CLASS|
