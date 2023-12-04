@@ -20,6 +20,7 @@ Class times
 Office Hours
 
 
+Course outline may adjust depending on time. There is a lot of content to cover in a short period of time. 
 |DATE|CLASS|DATE|CLASS|
 |:---|:----|:---|:----|
 01|Orientation and Review|02|Development Environment [code](https://github.com/Morrisdata/DS/blob/master/code/02_development_environment)|
