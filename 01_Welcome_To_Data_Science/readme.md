@@ -14,7 +14,7 @@ Before this lesson you should already be able to:
 
 **Topics/Highlights**
 * Welcome from General Assembly!
-* Course overview ([slides]([slides/01_course_overview.pdf](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf)))
+* Course overview ([slides/01_course_overview.pdf](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf))
 * What is data science ([slides](slides/01_data_science_intro.pdf))
 * Data Science workflow ([slides](slides/01_data_science_intro.pdf))
 	* [Exercise (Apply the workflow)](other/workflow_exercise.md)
