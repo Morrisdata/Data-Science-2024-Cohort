@@ -16,9 +16,7 @@ Before this lesson you should already be able to:
 * Welcome from General Assembly!
 * Course overview ([slides/01_Welcome to Data Science.pdf](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf))
 * What is data science ([slides](slides/01_data_science_intro.pdf))
-* Data Science workflow ([slides](slides/01_data_science_intro.pdf))
-	* [Exercise (Apply the workflow)](other/workflow_exercise.md)
-* Hands-on with the Data Science Dev Environment (Anaconda, Spyder IDE, iPython notebooks)
+* Hands-on with the Data Science Dev Environment (Anaconda, Spyder IDE, iPython notebooks) 
 * Discuss the course project: [requirements](project/README.md) and [example projects](/project/project_examples/README.md)
 	* Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
 	* [GA's student gallery of projects](https://gallery.generalassemb.ly)
