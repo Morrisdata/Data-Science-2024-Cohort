@@ -18,7 +18,7 @@ Before this lesson you should already be able to:
 * Get a head start
   -([class data](https://github.com/Morrisdata/data))
   - ([public_data]())
-  - ([Anaconda]()) 
+  - ([Anaconda](https://www.anaconda.com/download)) 
 
 
 **Homework:**
