@@ -15,9 +15,16 @@ Self Evaluation
 * 5 - Design, Optimize, Code Review, Improve
 
 Class times
-
+Tuesday PST:
+Thursday PST:
 
 Office Hours
+
+
+Slack
+
+Email
+
 
 
 Course outline may adjust depending on time. There is a lot of content to cover in a short period of time. 
