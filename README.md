@@ -79,3 +79,19 @@ Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Py
 |[Julia Evans Pandas Cookbook](https://github.com/jvns/pandas-cookbook) | Great resource with examples from weather, bikes and 311 calls|
 |[Learn Pandas Tutorials](https://bitbucket.org/hrojas/learn-pandas) | A great series of Pandas tutorials from Dave Rojas|
 |[Research Computing Python Data PYNBs](https://github.com/ResearchComputing/Meetup-Fall-2013/tree/master/python) | A super awesome set of python notebooks from a meetup-based course exclusively devoted to pandas|
+
+
+*** more resourses ***
+* Review each concept and each line of code in these files of python code:
+  - [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py)
+  - [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py).
+* [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes example code.
+* If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
+* If you prefer interactive exercises, try these lessons from [Codecademy](http://www.codecademy.com/en/tracks/python): "Python Lists and Dictionaries" and "A Day at the Supermarket".
+* If you have more time, try missions 2 and 3 from [DataQuest's Learning Python](https://www.dataquest.io/course/learning-python) course.
+* If you've already mastered these topics and want more of a challenge, try solving [Python Challenge](http://www.pythonchallenge.com/) number 1 (decoding a message)
+
+**Resources:**
+* For a useful look at the different types of data scientists, read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) (32 pages).
+* For some thoughts on what it's like to be a data scientist, read these short posts from [Win-Vector](http://www.win-vector.com/blog/2012/09/on-being-a-data-scientist/) and [Datascope Analytics](http://datascopeanalytics.com/what-we-think/2014/07/31/six-qualities-of-a-great-data-scientist).
+* Quora has a [data science topic FAQ](https://www.quora.com/Data-Science) with lots of interesting Q&A.
