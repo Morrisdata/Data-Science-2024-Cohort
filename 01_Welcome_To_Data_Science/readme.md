@@ -20,7 +20,7 @@ Before this lesson you should already be able to:
   - ([public_data]())
   - ([Anaconda]()) 
 
-(https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf)
+https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf
 **Homework:**
 * Read through the information about the course project information to familiarize yourself.
 * Review Class data, public data, kaggle data to begin choosing a dataset for final project.
