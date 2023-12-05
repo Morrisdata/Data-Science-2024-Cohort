@@ -6,3 +6,4 @@
 |[Functions](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit03a_Worksheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit03b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit03c_Basic_Drills.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit03d_Advanced_Drills.py)|
 |[Objects and Arguments](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit04a_Worksheet.py)||||||
 |[Working with Files](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit05a_Worksheet.py)||||||
+|[Lists, Tuples, Dictionaries](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit06a_Worksheet.py)||||||
