@@ -1,24 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 28 08:55:09 2020
-
-@author: msmorris
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 28 08:45:10 2020
-
-@author: msmorris
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 13 10:03:33 2020
-
-@author: msmorris
-"""
-
 ###############################################################################
 ##                      PYTHON FOR DATA I - UNIT 3
 ##                       FUNCTIONS- Basic Drills
