@@ -7,3 +7,4 @@
 |[Objects and Arguments](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit04a_Worksheet.py)||||||
 |[Working with Files](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit05a_Worksheet.py)||||||
 |[Lists, Tuples, Dictionaries](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit06a_Worksheet.py)||||||
+|[Loops](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit07a_Worksheet.py)||||||
