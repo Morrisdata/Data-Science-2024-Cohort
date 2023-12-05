@@ -33,7 +33,7 @@ Email
 Course outline may adjust depending on time. There is a lot of content to cover in a short period of time. 
 |DATE|CLASS|DATE|CLASS|
 |:---|:----|:---|:----|
-01|Orientation and Review [home](https://github.com/Morrisdata/DS/tree/master/01_Welcome_To_Data_Science)|02|Development Environment [code](https://github.com/Morrisdata/DS/blob/master/code/02_development_environment)|
+01|Orientation and Review [home](https://github.com/Morrisdata/DS/tree/master/01_Welcome_To_Data_Science), [slides](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf)|02|Development Environment [code](https://github.com/Morrisdata/DS/blob/master/code/02_development_environment)|
 |03|Python Foundations [code](), [notebook](), [markdown ref]()|04|Presentations|
 |05|Exploratory Data Analysis(EDA) in Pandas|06|Data Visualization in Python|
 |07|Statistics in Python|08|Experiments and Hypothesis Testing|
