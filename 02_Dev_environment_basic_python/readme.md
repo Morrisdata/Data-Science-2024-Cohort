@@ -1,7 +1,7 @@
 
 |Workbooks | Cheatsheet|Basic Drill|Advanced Drill|
 |:-------|:-----|:-----|:-----|
-|[basic syntax]((https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01a_Worksheet.py))|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01c_Drill_Basic.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01d_Drill_Advanced.py)|
+|[Basic Syntax]((https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01a_Worksheet.py))|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01c_Drill_Basic.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01d_Drill_Advanced.py)|
 |[Pandas tutorial Data Frames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)| Data Frames explained|
 |[Pandas getting started](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)|Fundamentals at a deeper level|
 |[Data Munging in Python with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)|SQL of Python|
