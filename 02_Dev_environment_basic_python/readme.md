@@ -1,7 +1,7 @@
 
-|Name | Description|
-|:-------|:-----|
-|[basic syntax](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)|Excellent starter into Pandas|
+|Workbooks | Cheatsheet|Basic Drill|Advanced Drill|
+|:-------|:-----|:-----|:-----|
+|[basic syntax workbook](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)|Excellent starter into Pandas|
 |[Pandas tutorial Data Frames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)| Data Frames explained|
 |[Pandas getting started](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)|Fundamentals at a deeper level|
 |[Data Munging in Python with Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)|SQL of Python|
