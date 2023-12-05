@@ -13,8 +13,6 @@ After this lesson, you will be able to:
 There are several workbooks that can be reviewed and walked through. In class we will be reviewing unit 1 and unit 4. 
 These 8 units are for students to download and continue building on for their own studies and practices. It is built as a loop and allows for adding additional content as your knowledge grows. 
 
-
-Topics/Highlights
 |Workbooks | Cheatsheet|Basic Drill|Advanced Drill|
 |:-------|:-----|:-----|:-----|
 |[Basic Syntax](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01a_Worksheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01c_Drill_Basic.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/PD01Unit01d_Drill_Advanced.py)|
