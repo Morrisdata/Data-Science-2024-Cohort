@@ -15,9 +15,10 @@ These 8 units are for students to download and continue building on for their ow
     Execute an application from your desktop. 
     Connect to files such as Chipotle data. 
     Setup your development environment and review Python basics.
+
 **Homework**
-Connect to Chipolte Data and begin working through project Prompt
-Bonus Build out your python skillbuilder to share with instructors or as a demo for the class
+-- Connect to Chipolte Data and begin working through project Prompt
+-- Bonus Build out your python skillbuilder to share with instructors or as a demo for the class
 
 |Workbooks | Cheatsheet|Basic Drill|Advanced Drill|
 |:-------|:-----|:-----|:-----|
