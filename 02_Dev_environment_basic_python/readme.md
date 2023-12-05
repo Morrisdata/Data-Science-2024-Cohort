@@ -1,17 +1,23 @@
-Student Prework:
+### Class 2: Development Environment, Python Basics
+We will be confirming that all students can connect to and have access to all applications, data, and python environments are working properly. 
+
+There are several workbooks that can be reviewed and walked through. In class we will be reviewing unit 1 and unit 4. 
+These 8 units are for students to download and continue building on for their own studies and practices. It is built as a loop and allows for adding additional content as your knowledge grows. 
+
+**Student Prework**
   Complete or near completion of python pre-work.
   Downloaded Chipotle Dataset.
   Created a repository for data that you will be storing and accessing.
   Connected with at least one client and one consultant in class.
 
-After this lesson, you will be able to:
+**After this lesson, you will be able to:**
     Navigate applications used for development. 
     Execute an application from your desktop. 
     Connect to files such as Chipotle data. 
     Setup your development environment and review Python basics.
-
-There are several workbooks that can be reviewed and walked through. In class we will be reviewing unit 1 and unit 4. 
-These 8 units are for students to download and continue building on for their own studies and practices. It is built as a loop and allows for adding additional content as your knowledge grows. 
+**Homework**
+Connect to Chipolte Data and begin working through project Prompt
+Bonus Build out your python skillbuilder to share with instructors or as a demo for the class
 
 |Workbooks | Cheatsheet|Basic Drill|Advanced Drill|
 |:-------|:-----|:-----|:-----|
