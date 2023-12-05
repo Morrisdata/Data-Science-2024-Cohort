@@ -30,5 +30,5 @@ These 8 units are for students to download and continue building on for their ow
 |[Lists, Tuples, Dictionaries](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit06a_Worksheet.py)||||||
 |[Loops](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit07a_Worksheet.py)||||||
 |[More Loops](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit08a_Worksheet.py)||||||
-[[Putting it all together](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit08_Putting_it_all_together.py)||||||
+|[Putting it all together](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit08_Putting_it_all_together.py)||||||
 [[additional practice](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/practice.py)||||||
