@@ -1,0 +1,1341 @@
+series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake,signature_ingredients,showstopper_ingredients
+3,1,Brendan,IN,No,10,No,NULL,NULL
+3,1,Cathryn,IN,No,5,No,NULL,NULL
+3,1,Danny,IN,No,7,No,NULL,NULL
+3,1,James,IN,No,2,No,NULL,NULL
+3,1,John,IN,No,11,No,NULL,NULL
+3,1,Manisha,IN,No,6,No,NULL,NULL
+3,1,Natasha,OUT,No,12,No,NULL,NULL
+3,1,Peter,IN,No,3,No,NULL,NULL
+3,1,Ryan,IN,No,8,No,NULL,NULL
+3,1,Sarah-Jane,IN,No,1,No,NULL,NULL
+3,1,Stuart,IN,No,9,No,NULL,NULL
+3,1,Victoria,STARBAKER,No,4,No,NULL,NULL
+3,2,Brendan,IN,No,4,No,NULL,NULL
+3,2,Cathryn,IN,No,8,No,NULL,NULL
+3,2,Danny,IN,No,3,No,NULL,NULL
+3,2,James,IN,No,2,No,NULL,NULL
+3,2,John,STARBAKER,No,1,No,NULL,NULL
+3,2,Manisha,IN,No,6,No,NULL,NULL
+3,2,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,2,Peter,OUT,No,11,No,NULL,NULL
+3,2,Ryan,IN,No,5,No,NULL,NULL
+3,2,Sarah-Jane,IN,No,10,No,NULL,NULL
+3,2,Stuart,IN,No,9,No,NULL,NULL
+3,2,Victoria,IN,No,7,No,NULL,NULL
+3,3,Brendan,IN,No,9,No,NULL,NULL
+3,3,Cathryn,IN,No,3,No,NULL,NULL
+3,3,Danny,IN,No,2,No,NULL,NULL
+3,3,James,STARBAKER,No,1,No,NULL,NULL
+3,3,John,IN,No,6,No,NULL,NULL
+3,3,Manisha,IN,No,10,No,NULL,NULL
+3,3,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,3,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+3,3,Ryan,IN,No,5,No,NULL,NULL
+3,3,Sarah-Jane,IN,No,8,No,NULL,NULL
+3,3,Stuart,IN,No,7,No,NULL,NULL
+3,3,Victoria,OUT,No,4,No,NULL,NULL
+3,4,Brendan,STARBAKER,No,1,No,NULL,NULL
+3,4,Cathryn,IN,No,3,No,NULL,NULL
+3,4,Danny,IN,No,2,No,NULL,NULL
+3,4,James,IN,No,5,No,NULL,NULL
+3,4,John,IN,No,6,No,NULL,NULL
+3,4,Manisha,IN,No,9,No,NULL,NULL
+3,4,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,4,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+3,4,Ryan,IN,No,7,No,NULL,NULL
+3,4,Sarah-Jane,IN,No,4,No,NULL,NULL
+3,4,Stuart,OUT,No,8,No,NULL,NULL
+3,4,Victoria,NULL,NULL,NULL,NULL,NULL,NULL
+3,5,Brendan,IN,No,3,No,NULL,NULL
+3,5,Cathryn,IN,No,1,No,NULL,NULL
+3,5,Danny,IN,No,7,No,NULL,NULL
+3,5,James,IN,No,6,No,NULL,NULL
+3,5,John,IN,No,2,No,NULL,NULL
+3,5,Manisha,OUT,No,5,No,NULL,NULL
+3,5,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,5,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+3,5,Ryan,STARBAKER,No,8,No,NULL,NULL
+3,5,Sarah-Jane,IN,No,4,No,NULL,NULL
+3,5,Stuart,NULL,NULL,NULL,NULL,NULL,NULL
+3,5,Victoria,NULL,NULL,NULL,NULL,NULL,NULL
+3,6,Brendan,STARBAKER,No,1,No,NULL,NULL
+3,6,Cathryn,IN,No,3,No,NULL,NULL
+3,6,Danny,IN,No,2,No,NULL,NULL
+3,6,James,IN,No,7,No,NULL,NULL
+3,6,John,IN,No,5,No,NULL,NULL
+3,6,Manisha,NULL,NULL,NULL,NULL,NULL,NULL
+3,6,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,6,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+3,6,Ryan,IN,No,6,No,NULL,NULL
+3,6,Sarah-Jane,IN,No,4,No,NULL,NULL
+3,6,Stuart,NULL,NULL,NULL,NULL,NULL,NULL
+3,6,Victoria,NULL,NULL,NULL,NULL,NULL,NULL
+3,7,Brendan,IN,No,4,No,NULL,NULL
+3,7,Cathryn,IN,No,5,No,NULL,NULL
+3,7,Danny,STARBAKER,No,2,No,NULL,NULL
+3,7,James,IN,No,1,No,NULL,NULL
+3,7,John,IN,No,3,No,NULL,NULL
+3,7,Manisha,NULL,NULL,NULL,NULL,NULL,NULL
+3,7,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,7,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+3,7,Ryan,OUT,Yes,6,No,NULL,NULL
+3,7,Sarah-Jane,OUT,No,7,No,NULL,NULL
+3,7,Stuart,NULL,NULL,NULL,NULL,NULL,NULL
+3,7,Victoria,NULL,NULL,NULL,NULL,NULL,NULL
+3,8,Brendan,IN,No,2,No,NULL,NULL
+3,8,Cathryn,OUT,No,5,No,NULL,NULL
+3,8,Danny,IN,No,4,No,NULL,NULL
+3,8,James,STARBAKER,No,1,No,NULL,NULL
+3,8,John,IN,No,3,No,NULL,NULL
+3,8,Manisha,NULL,NULL,NULL,NULL,NULL,NULL
+3,8,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,8,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+3,8,Ryan,NULL,NULL,NULL,NULL,NULL,NULL
+3,8,Sarah-Jane,NULL,NULL,NULL,NULL,NULL,NULL
+3,8,Stuart,NULL,NULL,NULL,NULL,NULL,NULL
+3,8,Victoria,NULL,NULL,NULL,NULL,NULL,NULL
+3,9,Brendan,IN,No,3,No,NULL,NULL
+3,9,Cathryn,NULL,NULL,NULL,NULL,NULL,NULL
+3,9,Danny,OUT,No,4,No,NULL,NULL
+3,9,James,STARBAKER,No,1,No,NULL,NULL
+3,9,John,IN,No,2,No,NULL,NULL
+3,9,Manisha,NULL,NULL,NULL,NULL,NULL,NULL
+3,9,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,9,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+3,9,Ryan,NULL,NULL,NULL,NULL,NULL,NULL
+3,9,Sarah-Jane,NULL,NULL,NULL,NULL,NULL,NULL
+3,9,Stuart,NULL,NULL,NULL,NULL,NULL,NULL
+3,9,Victoria,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,Brendan,RUNNERUP,No,2,No,NULL,NULL
+3,10,Cathryn,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,Danny,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,James,RUNNERUP,No,1,No,NULL,NULL
+3,10,John,WINNER,No,2,No,NULL,NULL
+3,10,Manisha,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,Natasha,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,Ryan,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,Sarah-Jane,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,Stuart,NULL,NULL,NULL,NULL,NULL,NULL
+3,10,Victoria,NULL,NULL,NULL,NULL,NULL,NULL
+4,1,Ali,IN,No,11,No,NULL,NULL
+4,1,Beca,IN,No,8,No,NULL,NULL
+4,1,Christine,IN,No,3,No,NULL,NULL
+4,1,Deborah,IN,No,9,No,NULL,NULL
+4,1,Frances,IN,No,7,No,NULL,NULL
+4,1,Glenn,IN,No,4,No,NULL,NULL
+4,1,Howard,IN,No,6,No,NULL,NULL
+4,1,Kimberley,IN,No,10,No,NULL,NULL
+4,1,Lucy,IN,No,2,No,NULL,NULL
+4,1,Mark,IN,No,5,No,NULL,NULL
+4,1,Robert,STARBAKER,No,1,No,NULL,NULL
+4,1,Ruby,IN,No,12,No,NULL,NULL
+4,1,Toby,OUT,No,13,No,NULL,NULL
+4,2,Ali,IN,No,9,No,NULL,NULL
+4,2,Beca,IN,No,11,No,NULL,NULL
+4,2,Christine,IN,No,4,No,NULL,NULL
+4,2,Deborah,IN,No,8,No,NULL,NULL
+4,2,Frances,IN,No,2,No,NULL,NULL
+4,2,Glenn,IN,No,7,No,NULL,NULL
+4,2,Howard,IN,No,10,No,NULL,NULL
+4,2,Kimberley,IN,No,1,No,NULL,NULL
+4,2,Lucy,OUT,No,12,No,NULL,NULL
+4,2,Mark,IN,No,6,No,NULL,NULL
+4,2,Robert,IN,No,5,No,NULL,NULL
+4,2,Ruby,STARBAKER,No,3,No,NULL,NULL
+4,2,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+4,3,Ali,IN,No,5,No,NULL,NULL
+4,3,Beca,IN,No,10,No,NULL,NULL
+4,3,Christine,STARBAKER,No,4,No,NULL,NULL
+4,3,Deborah,OUT,No,9,No,NULL,NULL
+4,3,Frances,IN,No,8,No,NULL,NULL
+4,3,Glenn,IN,No,1,No,NULL,NULL
+4,3,Howard,IN,No,7,No,NULL,NULL
+4,3,Kimberley,IN,No,6,No,NULL,NULL
+4,3,Lucy,NULL,NULL,NULL,NULL,NULL,NULL
+4,3,Mark,OUT,No,11,No,NULL,NULL
+4,3,Robert,IN,No,2,No,NULL,NULL
+4,3,Ruby,IN,No,3,No,NULL,NULL
+4,3,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+4,4,Ali,OUT,No,8,No,NULL,NULL
+4,4,Beca,IN,No,2,No,NULL,NULL
+4,4,Christine,IN,No,7,No,NULL,NULL
+4,4,Deborah,NULL,NULL,NULL,NULL,NULL,NULL
+4,4,Frances,IN,No,1,No,NULL,NULL
+4,4,Glenn,IN,No,9,No,NULL,NULL
+4,4,Howard,IN,No,5,No,NULL,NULL
+4,4,Kimberley,STARBAKER,No,4,No,NULL,NULL
+4,4,Lucy,NULL,NULL,NULL,NULL,NULL,NULL
+4,4,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+4,4,Robert,IN,No,3,No,NULL,NULL
+4,4,Ruby,IN,No,6,No,NULL,NULL
+4,4,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+4,5,Ali,NULL,NULL,NULL,NULL,NULL,NULL
+4,5,Beca,IN,No,5,No,NULL,NULL
+4,5,Christine,STARBAKER,No,1,No,NULL,NULL
+4,5,Deborah,NULL,NULL,NULL,NULL,NULL,NULL
+4,5,Frances,IN,No,3,No,NULL,NULL
+4,5,Glenn,IN,No,2,No,NULL,NULL
+4,5,Howard,IN,No,8,No,NULL,NULL
+4,5,Kimberley,IN,No,7,No,NULL,NULL
+4,5,Lucy,NULL,NULL,NULL,NULL,NULL,NULL
+4,5,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+4,5,Robert,OUT,No,4,No,NULL,NULL
+4,5,Ruby,IN,No,6,No,NULL,NULL
+4,5,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+4,6,Ali,NULL,NULL,NULL,NULL,NULL,NULL
+4,6,Beca,IN,No,6,No,NULL,NULL
+4,6,Christine,IN,No,4,No,NULL,NULL
+4,6,Deborah,NULL,NULL,NULL,NULL,NULL,NULL
+4,6,Frances,IN,No,2,No,NULL,NULL
+4,6,Glenn,IN,No,5,No,NULL,NULL
+4,6,Howard,OUT,No,7,No,NULL,NULL
+4,6,Kimberley,IN,No,3,No,NULL,NULL
+4,6,Lucy,NULL,NULL,NULL,NULL,NULL,NULL
+4,6,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+4,6,Robert,NULL,NULL,NULL,NULL,NULL,NULL
+4,6,Ruby,STARBAKER,No,1,No,NULL,NULL
+4,6,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+4,7,Ali,NULL,NULL,NULL,NULL,NULL,NULL
+4,7,Beca,IN,No,1,No,NULL,NULL
+4,7,Christine,IN,No,6,No,NULL,NULL
+4,7,Deborah,NULL,NULL,NULL,NULL,NULL,NULL
+4,7,Frances,STARBAKER,No,5,No,NULL,NULL
+4,7,Glenn,OUT,No,3,No,NULL,NULL
+4,7,Howard,NULL,NULL,NULL,NULL,NULL,NULL
+4,7,Kimberley,IN,No,4,No,NULL,NULL
+4,7,Lucy,NULL,NULL,NULL,NULL,NULL,NULL
+4,7,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+4,7,Robert,NULL,NULL,NULL,NULL,NULL,NULL
+4,7,Ruby,IN,No,2,No,NULL,NULL
+4,7,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+4,8,Ali,NULL,NULL,NULL,NULL,NULL,NULL
+4,8,Beca,IN,No,4,No,NULL,NULL
+4,8,Christine,OUT,No,5,No,NULL,NULL
+4,8,Deborah,NULL,NULL,NULL,NULL,NULL,NULL
+4,8,Frances,IN,No,3,No,NULL,NULL
+4,8,Glenn,NULL,NULL,NULL,NULL,NULL,NULL
+4,8,Howard,NULL,NULL,NULL,NULL,NULL,NULL
+4,8,Kimberley,IN,No,2,No,NULL,NULL
+4,8,Lucy,NULL,NULL,NULL,NULL,NULL,NULL
+4,8,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+4,8,Robert,NULL,NULL,NULL,NULL,NULL,NULL
+4,8,Ruby,STARBAKER,No,1,No,NULL,NULL
+4,8,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Ali,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Beca,OUT,No,3,No,NULL,NULL
+4,9,Christine,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Deborah,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Frances,IN,Yes,2,No,NULL,NULL
+4,9,Glenn,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Howard,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Kimberley,STARBAKER,No,1,No,NULL,NULL
+4,9,Lucy,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Robert,NULL,NULL,NULL,NULL,NULL,NULL
+4,9,Ruby,IN,No,4,No,NULL,NULL
+4,9,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Ali,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Beca,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Christine,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Deborah,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Frances,WINNER,No,3,No,NULL,NULL
+4,10,Glenn,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Howard,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Kimberley,RUNNERUP,No,1,No,NULL,NULL
+4,10,Lucy,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Robert,NULL,NULL,NULL,NULL,NULL,NULL
+4,10,Ruby,RUNNERUP,No,2,No,NULL,NULL
+4,10,Toby,NULL,NULL,NULL,NULL,NULL,NULL
+5,1,Chetna,IN,No,3,No,NULL,NULL
+5,1,Claire,OUT,No,8,No,NULL,NULL
+5,1,Diana,IN,No,5,No,NULL,NULL
+5,1,Enwezor,IN,No,9,No,NULL,NULL
+5,1,Iain,IN,No,4,No,NULL,NULL
+5,1,Jordan,IN,No,12,No,NULL,NULL
+5,1,Kate,IN,No,6,No,NULL,NULL
+5,1,Luis,IN,No,7,No,NULL,NULL
+5,1,Martha,IN,No,2,No,NULL,NULL
+5,1,Nancy,STARBAKER,No,1,No,NULL,NULL
+5,1,Norman,IN,No,11,No,NULL,NULL
+5,1,Richard,IN,No,10,No,NULL,NULL
+5,2,Chetna,IN,No,8,No,NULL,NULL
+5,2,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,2,Diana,IN,No,7,No,NULL,NULL
+5,2,Enwezor,OUT,No,9,No,NULL,NULL
+5,2,Iain,IN,No,11,No,NULL,NULL
+5,2,Jordan,IN,No,6,No,NULL,NULL
+5,2,Kate,IN,No,4,No,NULL,NULL
+5,2,Luis,IN,No,3,No,NULL,NULL
+5,2,Martha,IN,No,5,No,NULL,NULL
+5,2,Nancy,IN,No,2,No,NULL,NULL
+5,2,Norman,IN,Yes,10,No,NULL,NULL
+5,2,Richard,STARBAKER,No,1,No,NULL,NULL
+5,3,Chetna,IN,No,8,No,NULL,NULL
+5,3,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,3,Diana,IN,No,7,No,NULL,NULL
+5,3,Enwezor,NULL,NULL,NULL,NULL,NULL,NULL
+5,3,Iain,IN,No,9,No,NULL,NULL
+5,3,Jordan,OUT,No,10,No,NULL,NULL
+5,3,Kate,IN,No,1,No,NULL,NULL
+5,3,Luis,STARBAKER,Yes,2,No,NULL,NULL
+5,3,Martha,IN,No,3,No,NULL,NULL
+5,3,Nancy,IN,No,5,No,NULL,NULL
+5,3,Norman,IN,No,4,No,NULL,NULL
+5,3,Richard,IN,No,6,No,NULL,NULL
+5,4,Chetna,IN,No,3,No,NULL,NULL
+5,4,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,4,Diana,IN,No,9,No,NULL,NULL
+5,4,Enwezor,NULL,NULL,NULL,NULL,NULL,NULL
+5,4,Iain,OUT,No,6,No,NULL,NULL
+5,4,Jordan,NULL,NULL,NULL,NULL,NULL,NULL
+5,4,Kate,IN,No,7,No,NULL,NULL
+5,4,Luis,IN,No,2,No,NULL,NULL
+5,4,Martha,IN,No,1,No,NULL,NULL
+5,4,Nancy,IN,No,4,No,NULL,NULL
+5,4,Norman,IN,No,8,No,NULL,NULL
+5,4,Richard,STARBAKER,No,5,No,NULL,NULL
+5,5,Chetna,IN,No,2,No,NULL,NULL
+5,5,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,5,Diana,WITHDRAWN,NULL,NULL,NULL,NULL,NULL
+5,5,Enwezor,NULL,NULL,NULL,NULL,NULL,NULL
+5,5,Iain,NULL,NULL,NULL,NULL,NULL,NULL
+5,5,Jordan,NULL,NULL,NULL,NULL,NULL,NULL
+5,5,Kate,STARBAKER,No,3,No,NULL,NULL
+5,5,Luis,IN,No,6,No,NULL,NULL
+5,5,Martha,IN,No,1,No,NULL,NULL
+5,5,Nancy,IN,No,4,No,NULL,NULL
+5,5,Norman,OUT,No,5,No,NULL,NULL
+5,5,Richard,IN,No,7,No,NULL,NULL
+5,6,Chetna,STARBAKER,No,2,No,NULL,NULL
+5,6,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,6,Diana,NULL,NULL,NULL,NULL,NULL,NULL
+5,6,Enwezor,NULL,NULL,NULL,NULL,NULL,NULL
+5,6,Iain,NULL,NULL,NULL,NULL,NULL,NULL
+5,6,Jordan,NULL,NULL,NULL,NULL,NULL,NULL
+5,6,Kate,IN,No,6,No,NULL,NULL
+5,6,Luis,IN,No,3,No,NULL,NULL
+5,6,Martha,IN,No,4,No,NULL,NULL
+5,6,Nancy,IN,No,1,No,NULL,NULL
+5,6,Norman,NULL,NULL,NULL,NULL,NULL,NULL
+5,6,Richard,IN,No,5,No,NULL,NULL
+5,7,Chetna,IN,No,6,No,NULL,NULL
+5,7,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,7,Diana,NULL,NULL,NULL,NULL,NULL,NULL
+5,7,Enwezor,NULL,NULL,NULL,NULL,NULL,NULL
+5,7,Iain,NULL,NULL,NULL,NULL,NULL,NULL
+5,7,Jordan,NULL,NULL,NULL,NULL,NULL,NULL
+5,7,Kate,OUT,No,4,No,NULL,NULL
+5,7,Luis,IN,No,5,No,NULL,NULL
+5,7,Martha,IN,No,3,No,NULL,NULL
+5,7,Nancy,IN,No,2,No,NULL,NULL
+5,7,Norman,NULL,NULL,NULL,NULL,NULL,NULL
+5,7,Richard,STARBAKER,No,1,No,NULL,NULL
+5,8,Chetna,IN,No,1,No,NULL,NULL
+5,8,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,8,Diana,NULL,NULL,NULL,NULL,NULL,NULL
+5,8,Enwezor,NULL,NULL,NULL,NULL,NULL,NULL
+5,8,Iain,NULL,NULL,NULL,NULL,NULL,NULL
+5,8,Jordan,NULL,NULL,NULL,NULL,NULL,NULL
+5,8,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+5,8,Luis,IN,No,2,No,NULL,NULL
+5,8,Martha,OUT,No,5,No,NULL,NULL
+5,8,Nancy,IN,No,3,No,NULL,NULL
+5,8,Norman,NULL,NULL,NULL,NULL,NULL,NULL
+5,8,Richard,STARBAKER,No,4,No,NULL,NULL
+5,9,Chetna,OUT,No,4,No,NULL,NULL
+5,9,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,9,Diana,NULL,NULL,NULL,NULL,NULL,NULL
+5,9,Enwezor,NULL,NULL,NULL,NULL,NULL,NULL
+5,9,Iain,NULL,NULL,NULL,NULL,NULL,NULL
+5,9,Jordan,NULL,NULL,NULL,NULL,NULL,NULL
+5,9,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+5,9,Luis,IN,No,1,No,NULL,NULL
+5,9,Martha,NULL,NULL,NULL,NULL,NULL,NULL
+5,9,Nancy,IN,No,3,No,NULL,NULL
+5,9,Norman,NULL,NULL,NULL,NULL,NULL,NULL
+5,9,Richard,STARBAKER,No,2,No,NULL,NULL
+5,10,Chetna,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Claire,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Diana,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Enwezor,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Iain,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Jordan,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Luis,RUNNERUP,No,2,No,NULL,NULL
+5,10,Martha,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Nancy,WINNER,No,1,No,NULL,NULL
+5,10,Norman,NULL,NULL,NULL,NULL,NULL,NULL
+5,10,Richard,RUNNERUP,No,3,No,NULL,NULL
+6,1,Alvin,IN,No,2,No,NULL,NULL
+6,1,Dorret,IN,No,5,No,NULL,NULL
+6,1,Flora,IN,No,6,No,NULL,NULL
+6,1,Ian,IN,No,8,No,NULL,NULL
+6,1,Marie,STARBAKER,No,3,No,NULL,NULL
+6,1,Mat,IN,No,7,No,NULL,NULL
+6,1,Nadiya,IN,No,12,No,NULL,NULL
+6,1,Paul,IN,No,10,No,NULL,NULL
+6,1,Sandy,IN,No,9,No,NULL,NULL
+6,1,Stu,OUT,No,11,No,NULL,NULL
+6,1,Tamal,IN,No,4,No,NULL,NULL
+6,1,Ugne,IN,No,1,No,NULL,NULL
+6,2,Alvin,IN,No,6,No,NULL,NULL
+6,2,Dorret,IN,No,1,No,NULL,NULL
+6,2,Flora,IN,No,2,No,NULL,NULL
+6,2,Ian,STARBAKER,No,3,No,NULL,NULL
+6,2,Marie,OUT,No,11,No,NULL,NULL
+6,2,Mat,IN,No,5,No,NULL,NULL
+6,2,Nadiya,IN,No,9,No,NULL,NULL
+6,2,Paul,IN,No,10,No,NULL,NULL
+6,2,Sandy,IN,No,4,No,NULL,NULL
+6,2,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,2,Tamal,IN,No,8,No,NULL,NULL
+6,2,Ugne,IN,No,7,No,NULL,NULL
+6,3,Alvin,IN,No,4,No,NULL,NULL
+6,3,Dorret,OUT,No,6,No,NULL,NULL
+6,3,Flora,IN,No,2,No,NULL,NULL
+6,3,Ian,STARBAKER,No,1,No,NULL,NULL
+6,3,Marie,NULL,NULL,NULL,NULL,NULL,NULL
+6,3,Mat,IN,No,8,No,NULL,NULL
+6,3,Nadiya,IN,No,9,No,NULL,NULL
+6,3,Paul,IN,Yes,10,No,NULL,NULL
+6,3,Sandy,IN,No,7,No,NULL,NULL
+6,3,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,3,Tamal,IN,No,3,No,NULL,NULL
+6,3,Ugne,IN,No,5,No,NULL,NULL
+6,4,Alvin,IN,No,9,No,NULL,NULL
+6,4,Dorret,NULL,NULL,NULL,NULL,NULL,NULL
+6,4,Flora,IN,No,3,No,NULL,NULL
+6,4,Ian,STARBAKER,No,4,No,NULL,NULL
+6,4,Marie,NULL,NULL,NULL,NULL,NULL,NULL
+6,4,Mat,IN,No,7,No,NULL,NULL
+6,4,Nadiya,IN,No,8,No,NULL,NULL
+6,4,Paul,IN,No,1,No,NULL,NULL
+6,4,Sandy,OUT,No,6,No,NULL,NULL
+6,4,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,4,Tamal,IN,No,5,No,NULL,NULL
+6,4,Ugne,IN,No,2,No,NULL,NULL
+6,5,Alvin,IN,No,8,No,NULL,NULL
+6,5,Dorret,NULL,NULL,NULL,NULL,NULL,NULL
+6,5,Flora,IN,No,3,No,NULL,NULL
+6,5,Ian,IN,No,5,No,NULL,NULL
+6,5,Marie,NULL,NULL,NULL,NULL,NULL,NULL
+6,5,Mat,IN,No,4,No,NULL,NULL
+6,5,Nadiya,STARBAKER,No,1,No,NULL,NULL
+6,5,Paul,IN,No,2,No,NULL,NULL
+6,5,Sandy,NULL,NULL,NULL,NULL,NULL,NULL
+6,5,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,5,Tamal,IN,No,7,No,NULL,NULL
+6,5,Ugne,OUT,No,6,No,NULL,NULL
+6,6,Alvin,OUT,No,6,No,NULL,NULL
+6,6,Dorret,NULL,NULL,NULL,NULL,NULL,NULL
+6,6,Flora,IN,No,2,No,NULL,NULL
+6,6,Ian,IN,No,3,No,NULL,NULL
+6,6,Marie,NULL,NULL,NULL,NULL,NULL,NULL
+6,6,Mat,STARBAKER,No,1,No,NULL,NULL
+6,6,Nadiya,IN,No,4,No,NULL,NULL
+6,6,Paul,IN,No,5,No,NULL,NULL
+6,6,Sandy,NULL,NULL,NULL,NULL,NULL,NULL
+6,6,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,6,Tamal,IN,No,7,No,NULL,NULL
+6,6,Ugne,NULL,NULL,NULL,NULL,NULL,NULL
+6,7,Alvin,NULL,NULL,NULL,NULL,NULL,NULL
+6,7,Dorret,NULL,NULL,NULL,NULL,NULL,NULL
+6,7,Flora,IN,No,4,No,NULL,NULL
+6,7,Ian,IN,No,5,No,NULL,NULL
+6,7,Marie,NULL,NULL,NULL,NULL,NULL,NULL
+6,7,Mat,OUT,No,6,No,NULL,NULL
+6,7,Nadiya,IN,No,1,No,NULL,NULL
+6,7,Paul,IN,No,2,No,NULL,NULL
+6,7,Sandy,NULL,NULL,NULL,NULL,NULL,NULL
+6,7,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,7,Tamal,STARBAKER,Yes,3,No,NULL,NULL
+6,7,Ugne,NULL,NULL,NULL,NULL,NULL,NULL
+6,8,Alvin,NULL,NULL,NULL,NULL,NULL,NULL
+6,8,Dorret,NULL,NULL,NULL,NULL,NULL,NULL
+6,8,Flora,IN,No,3,No,NULL,NULL
+6,8,Ian,IN,No,2,No,NULL,NULL
+6,8,Marie,NULL,NULL,NULL,NULL,NULL,NULL
+6,8,Mat,NULL,NULL,NULL,NULL,NULL,NULL
+6,8,Nadiya,STARBAKER,No,1,No,NULL,NULL
+6,8,Paul,OUT,No,5,No,NULL,NULL
+6,8,Sandy,NULL,NULL,NULL,NULL,NULL,NULL
+6,8,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,8,Tamal,IN,No,4,No,NULL,NULL
+6,8,Ugne,NULL,NULL,NULL,NULL,NULL,NULL
+6,9,Alvin,NULL,NULL,NULL,NULL,NULL,NULL
+6,9,Dorret,NULL,NULL,NULL,NULL,NULL,NULL
+6,9,Flora,OUT,No,1,No,NULL,NULL
+6,9,Ian,IN,No,3,No,NULL,NULL
+6,9,Marie,NULL,NULL,NULL,NULL,NULL,NULL
+6,9,Mat,NULL,NULL,NULL,NULL,NULL,NULL
+6,9,Nadiya,STARBAKER,Yes,4,No,NULL,NULL
+6,9,Paul,NULL,NULL,NULL,NULL,NULL,NULL
+6,9,Sandy,NULL,NULL,NULL,NULL,NULL,NULL
+6,9,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,9,Tamal,IN,No,2,No,NULL,NULL
+6,9,Ugne,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Alvin,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Dorret,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Flora,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Ian,RUNNERUP,No,2,No,NULL,NULL
+6,10,Marie,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Mat,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Nadiya,WINNER,Yes,1,No,NULL,NULL
+6,10,Paul,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Sandy,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Stu,NULL,NULL,NULL,NULL,NULL,NULL
+6,10,Tamal,RUNNERUP,No,3,No,NULL,NULL
+6,10,Ugne,NULL,NULL,NULL,NULL,NULL,NULL
+7,1,Andrew,IN,No,12,No,NULL,NULL
+7,1,Benjamina,IN,No,6,No,NULL,NULL
+7,1,Candice,IN,No,5,No,NULL,NULL
+7,1,Jane,STARBAKER,No,7,No,NULL,NULL
+7,1,Kate,IN,No,4,No,NULL,NULL
+7,1,Lee,OUT,No,11,No,NULL,NULL
+7,1,Louise,IN,No,9,No,NULL,NULL
+7,1,Michael,IN,No,3,No,NULL,NULL
+7,1,Rav,IN,No,8,No,NULL,NULL
+7,1,Selasi,IN,No,1,No,NULL,NULL
+7,1,Tom,IN,No,2,No,NULL,NULL
+7,1,Val,IN,No,10,No,NULL,NULL
+7,2,Andrew,IN,No,4,No,NULL,NULL
+7,2,Benjamina,IN,No,3,No,NULL,NULL
+7,2,Candice,STARBAKER,No,8,No,NULL,NULL
+7,2,Jane,IN,No,2,No,NULL,NULL
+7,2,Kate,IN,No,1,No,NULL,NULL
+7,2,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,2,Louise,OUT,No,10,No,NULL,NULL
+7,2,Michael,IN,No,9,No,NULL,NULL
+7,2,Rav,IN,No,6,No,NULL,NULL
+7,2,Selasi,IN,No,11,No,NULL,NULL
+7,2,Tom,IN,Yes,7,No,NULL,NULL
+7,2,Val,IN,No,5,No,NULL,NULL
+7,3,Andrew,IN,No,2,No,NULL,NULL
+7,3,Benjamina,IN,No,6,No,NULL,NULL
+7,3,Candice,IN,No,3,No,NULL,NULL
+7,3,Jane,IN,No,9,No,NULL,NULL
+7,3,Kate,IN,No,8,No,NULL,NULL
+7,3,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,3,Louise,NULL,NULL,NULL,NULL,NULL,NULL
+7,3,Michael,OUT,No,7,No,NULL,NULL
+7,3,Rav,IN,No,10,No,NULL,NULL
+7,3,Selasi,IN,No,5,No,NULL,NULL
+7,3,Tom,STARBAKER,No,4,No,NULL,NULL
+7,3,Val,IN,No,1,No,NULL,NULL
+7,4,Andrew,IN,No,4,No,NULL,NULL
+7,4,Benjamina,IN,No,1,No,NULL,NULL
+7,4,Candice,STARBAKER,No,2,No,NULL,NULL
+7,4,Jane,IN,No,3,No,NULL,NULL
+7,4,Kate,OUT,No,7,No,NULL,NULL
+7,4,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,4,Louise,NULL,NULL,NULL,NULL,NULL,NULL
+7,4,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+7,4,Rav,IN,No,9,No,NULL,NULL
+7,4,Selasi,IN,Yes,8,No,NULL,NULL
+7,4,Tom,IN,No,5,No,NULL,NULL
+7,4,Val,IN,No,6,No,NULL,NULL
+7,5,Andrew,STARBAKER,No,6,No,NULL,NULL
+7,5,Benjamina,IN,No,5,No,NULL,NULL
+7,5,Candice,IN,No,2,No,NULL,NULL
+7,5,Jane,IN,No,1,No,NULL,NULL
+7,5,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+7,5,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,5,Louise,NULL,NULL,NULL,NULL,NULL,NULL
+7,5,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+7,5,Rav,IN,No,8,No,NULL,NULL
+7,5,Selasi,IN,No,3,No,NULL,NULL
+7,5,Tom,IN,No,4,No,NULL,NULL
+7,5,Val,OUT,No,7,No,NULL,NULL
+7,6,Andrew,IN,No,6,No,NULL,NULL
+7,6,Benjamina,OUT,No,2,No,NULL,NULL
+7,6,Candice,IN,No,5,No,NULL,NULL
+7,6,Jane,IN,No,4,No,NULL,NULL
+7,6,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+7,6,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,6,Louise,NULL,NULL,NULL,NULL,NULL,NULL
+7,6,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+7,6,Rav,OUT,No,3,No,NULL,NULL
+7,6,Selasi,IN,No,7,No,NULL,NULL
+7,6,Tom,STARBAKER,No,1,No,NULL,NULL
+7,6,Val,NULL,NULL,NULL,NULL,NULL,NULL
+7,7,Andrew,IN,No,1,No,NULL,NULL
+7,7,Benjamina,IN,No,3,No,NULL,NULL
+7,7,Candice,STARBAKER,No,2,No,NULL,NULL
+7,7,Jane,IN,No,4,No,NULL,NULL
+7,7,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+7,7,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,7,Louise,NULL,NULL,NULL,NULL,NULL,NULL
+7,7,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+7,7,Rav,NULL,NULL,NULL,NULL,NULL,NULL
+7,7,Selasi,IN,No,6,No,NULL,NULL
+7,7,Tom,OUT,No,5,No,NULL,NULL
+7,7,Val,NULL,NULL,NULL,NULL,NULL,NULL
+7,8,Andrew,IN,No,2,No,NULL,NULL
+7,8,Benjamina,OUT,No,4,No,NULL,NULL
+7,8,Candice,STARBAKER,No,1,No,NULL,NULL
+7,8,Jane,IN,No,5,No,NULL,NULL
+7,8,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+7,8,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,8,Louise,NULL,NULL,NULL,NULL,NULL,NULL
+7,8,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+7,8,Rav,NULL,NULL,NULL,NULL,NULL,NULL
+7,8,Selasi,IN,No,3,No,NULL,NULL
+7,8,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+7,8,Val,NULL,NULL,NULL,NULL,NULL,NULL
+7,9,Andrew,STARBAKER,No,2,No,NULL,NULL
+7,9,Benjamina,NULL,NULL,NULL,NULL,NULL,NULL
+7,9,Candice,IN,No,3,No,NULL,NULL
+7,9,Jane,IN,No,1,No,NULL,NULL
+7,9,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+7,9,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,9,Louise,NULL,NULL,NULL,NULL,NULL,NULL
+7,9,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+7,9,Rav,NULL,NULL,NULL,NULL,NULL,NULL
+7,9,Selasi,OUT,No,4,No,NULL,NULL
+7,9,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+7,9,Val,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Andrew,RUNNERUP,No,1,No,NULL,NULL
+7,10,Benjamina,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Candice,WINNER,Yes,2,No,NULL,NULL
+7,10,Jane,RUNNERUP,Yes,3,No,NULL,NULL
+7,10,Kate,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Lee,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Louise,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Rav,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Selasi,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+7,10,Val,NULL,NULL,NULL,NULL,NULL,NULL
+8,1,Chris,IN,No,12,No,mango;pineapple;limoncello liqueur,almond extract;marzipan
+8,1,Flo,IN,No,9,No,lemon curd;candied oranges;candied lemons;buttercream,melon syrup;chocolate chips;fondant
+8,1,James,IN,No,2,No,orange zest;orange juice;ginger;rhubarb;,coffee buttercream;coffee sponge;marshmallow fondant
+8,1,Julia,IN,No,3,No,lemon;zucchini;candied lemon;blueberry,victoria sponge;raspberry jam;buttercream;fondant
+8,1,Kate,IN,No,1,No,strawberry;cream cheese frosting;rose water,glacier mints;chocolate and coffee butter cream;star anise;chocolate
+8,1,Liam,IN,No,8,No,bramley apples;granny smith apples;maple syrup glaze;flaked almonds;nutmeg;cinnamon,banana;blueberry;marshmallow fondant;granola crumble
+8,1,Peter,OUT,No,10,No,coconut milk;coconut flour;fresh coconut;coconut sugar;buttercream frosting,lemon zest;marshmallow fondant 
+8,1,Sophie,IN,Yes,5,No,toasted coconut flakes;pineapple;coconut;coconut italian meringue buttercream,chocolate;cherry syrup;chocolate ganache
+8,1,Stacey,IN,No,11,No,granny smith apple;walnut streusel;caramel sauce;cinnamon;nutmeg,red velvet chocolate;chocolate cream cheese frosting
+8,1,Steven,STARBAKER,Yes,6,No,mini toffee apples;mascarpone cinnamon cream;candied citrus zest,hazelnut liqueur;fondant;peanut buttercream;chocolate
+8,1,Tom,IN,No,7,No,Pear;black berry compote;black berry;green cardamom,lemon zest;poppy seed
+8,1,Yan,IN,No,4,No,diced bramley apples;ground cinnamon;caramel,banana;marshmallow fondant;mango;rice krispies
+8,2,Chris,OUT,No,11,No,whiskey;orange;dark chocolate;salted caramel;chia seed,rum;ginger;cardamom;orange zest;
+8,2,Flo,IN,No,10,No,raspberry gin;raspberry;buttercream,almond;vanilla extract
+8,2,James,IN,No,3,No,rhubarb curd;vanilla buttercream;custard powder,spiced orange;chocolate;ginger;cocoa powder
+8,2,Julia,IN,No,4,No,pistachio extract;pistachio;cardamom;vanilla and rose jelly;rose water,ginger;cocoa powder;lime juice;chocolate;orange liqueur
+8,2,Kate,IN,No,8,No,desiccated coconut;coconut rum cream;pineapple;pineapple curd,grains of paradise;lemon zest;orange zest;cardamom
+8,2,Liam,IN,No,7,No,coffee buttercream;chopped peacan;malt extract,chocolate;orange;lemon;honey;ginger;cinnamon;cocoa icing
+8,2,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,2,Sophie,IN,No,2,No,limoncino;lemon zest;yuzu juice,dark chocolate;bergamot oil;lemon zest;royal icing
+8,2,Stacey,IN,No,9,No,marshmallow fluff;chocolate;cocoa powder,cocoa powder;freeze-dried strawberries;vanilla;chocolate
+8,2,Steven,STARBAKER,No,6,No,amoretti dough;ground almonds;ground coffee;coffee cream,espresso powder;ginger;orange zest;mixed spice
+8,2,Tom,IN,No,5,No,amaretto liqueur butter cream;espresso powder;chocolate ganache,chocolate;cinnamon buttercream;cocoa powder;peppermint essence;cinnamon;nutmeg
+8,2,Yan,IN,No,1,No,peanut butter;vanilla extract;banana butter cream,lemon zest;matcha powder;orange;cardamom
+8,3,Chris,NULL,NULL,NULL,NULL,NULL,NULL
+8,3,Flo,OUT,No,7,No,orange;whisky;cinnamon;nutmeg;sultanas;candied peel,smoked paprika;sesame seeds;turmeric;beetroot;squid ink
+8,3,James,IN,No,9,No,cardamom;orange zest;lemon zest;port soaked sultanas;port soaked cranberries,raisin;saffron;walnuts;chocolate;sultanas;green tea;lemon zest
+8,3,Julia,STARBAKER,No,2,No,sultanas;currants;raisins;candied mixed peels;earl grey;cherry;orange marmalade;cinnamon;nutmeg,goats cheese;onion;spinach;parsley;cheddar;bacon;red pepper;paprika;potato;beetroot 
+8,3,Kate,IN,No,10,No,blueberry compote;cardamom;cinnamon butter,red dulse seaweed;paprika;basil;algae;smoked garlic
+8,3,Liam,IN,No,5,No,cherry;raisins;irish stout;ginger;cinnamon;almond butter,dried apricots;beetroot;cocoa powder
+8,3,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,3,Sophie,IN,No,6,No,medjool dates;sumac;fig jam;almonds;apricots,apple compote;pandan powder;cinnamon;walnuts;tortilla;beetroot
+8,3,Stacey,IN,No,1,No,cranberry;cinnamon;whipped orange butter;wine jam;dried cranberries,turmeric;lemon;poppy seeds;sesame seeds;activated charcoal;pesto;tomato sauce
+8,3,Steven,IN,No,3,No,orange zest;dried cranberries;cardamom;vodka butter,chorizo;manchego;onion;garlic;spinach;beetroot;chilli chocolate;quince;sherry;chocolate;peppermint
+8,3,Tom,IN,No,4,No,cranberry;orange;mixed spice;white chocolate;apricot jam,beetroot;turmeric;cumin;nigella seeds;pesto
+8,3,Yan,IN,No,8,No,mango chutney;masala chai milk;crystallised ginger;sultanas;honey,white chocolate;raspberry glaze;parmesan cheese;spinach;coriander;basil;turmeric
+8,4,Chris,NULL,NULL,NULL,NULL,NULL,NULL
+8,4,Flo,NULL,NULL,NULL,NULL,NULL,NULL
+8,4,James,IN,No,2,No,maple syrup;pecan;chocolate,muscovado sugar;amaretto liqueur;peanut praline;honey comb;hazelnuts;sesame brittle
+8,4,Julia,IN,No,9,No,pecan;sea salt;golden syrup,caramelised walnut;poppy seeds;prunes;shards;caramel buttercream
+8,4,Kate,STARBAKER,No,6,No,walnut;bay leaves,dried apple;toffee buttercream;medjool dates 
+8,4,Liam,IN,Yes,3,No,walnut;peanut butter;peanut butter oil;honey;peanut;dark chocolate,black treacle;white chocolate buttercream;cinnamon;macadamia praline;ginger syrup;spiced caramel
+8,4,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,4,Sophie,IN,No,4,No,dark chocolate;orange zest;orange juice,hazelnuts;salted caramel ganache;chocolate;italian meringue butter cream;
+8,4,Stacey,IN,No,1,No,rum;lime zest;chilli flakes;chocolate,chocolate ganache;coffee essence;caramel buttercream
+8,4,Steven,IN,No,7,No,orange zest;macadamia nuts;coffee liqueur;chocolate,freeze-dried raspberries;red velvet;cocoa powder;caramel buttercream
+8,4,Tom,OUT,No,5,No,chocolate;almond;stem ginger caramel;white chocolate,banana;pineapple;lime cream cheese icing;passionfruit cream;pecan praline
+8,4,Yan,IN,No,8,No,orange extract;crystalized ginger;hazelnuts;chocolate,orange curd;cocoa powder;praline;orange zest;orange juice
+8,5,Chris,NULL,NULL,NULL,NULL,NULL,NULL
+8,5,Flo,NULL,NULL,NULL,NULL,NULL,NULL
+8,5,James,OUT,No,7,No,orange;stem ginger;spiced chocolate custard,raspberry;blueberry swiss roll;raspberry panna cotta;blueberry;eton mess mousse;prosecco jelly
+8,5,Julia,IN,No,3,No,orange caramel sauce;vanilla custard;black treacle;orange,vanilla;liquere;prosecco and passion fruit jelly;chocolate mousse;raspberries;strawberries;blueberries
+8,5,Kate,IN,No,8,No,lemon zest;bergamot oil;earl grey custard,raspberry meringue cream;raspberry jelly;raspberry;powdered custard
+8,5,Liam,IN,No,2,No,glace cherry;dried cherry;lemon zest;ground almonds;vanilla custard;lemon,chocolate mousse;orange jelly;chai latte panna cotta;brownie
+8,5,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,5,Sophie,STARBAKER,No,1,No,tonka bean marscapone cream;stem ginger;fig;honey,raspberry jelly;yuzu custard;white chocolate bavarois;raspberry
+8,5,Stacey,IN,Yes,4,No,cherry jam;raspberry;ground almonds;vanilla custard,pineapple rum jelly;passion fruit;lime eton mess;mango mousse;chilli;coconut
+8,5,Steven,IN,Yes,5,No,lemon zest;blackcurrant;vanilla custard,raspberry jelly;coconut sponge;white chocolate and coconut custard
+8,5,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+8,5,Yan,IN,Yes,6,No,coconut custard;stem ginger;caramalised coconut flakes;mango;alphonso mango,strawberry;raspberry;strawberry mousse;white chocolate mousse;elderflower jelly
+8,6,Chris,NULL,NULL,NULL,NULL,NULL,NULL
+8,6,Flo,NULL,NULL,NULL,NULL,NULL,NULL
+8,6,James,NULL,NULL,NULL,NULL,NULL,NULL
+8,6,Julia,OUT,No,7,No,sausage meat;sage;onion;apples;smoked paprika,bluecheese;asparagus and pear salsa;chicken;honey-glazed pears
+8,6,Kate,IN,No,5,No,carrots;leeks;celery;potatoes;onions;butterbeans,turmeric;potato;onion;mango;chilli;asparagus
+8,6,Liam,STARBAKER,No,4,No,sweet potato;feta cheese;chorizo,turmeric;fried plantain;curried goat;mango and avocado salsa
+8,6,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,6,Sophie,IN,No,2,No,roasted squash;spinach;blue cheese,pomegranate and port glaze;minced pork belly;venison;mushroom duxelles;rabbit;wild boar;guinea fowl
+8,6,Stacey,IN,No,6,No,onion;mince meat;pine nuts;cinnamon;chilli flakes,paneer cheese;lentil curry;eggs;spinach;mango
+8,6,Steven,IN,No,3,No,swedish meatballs;lingonberry jam;mashed potato,cranberry relish;brussel sprouts;chestnuts;turkey;pancetta
+8,6,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+8,6,Yan,IN,No,1,No,chicken;curry sauce,chorizo;chicken;black pudding;spiced sausage meat;fig
+8,7,Chris,NULL,NULL,NULL,NULL,NULL,NULL
+8,7,Flo,NULL,NULL,NULL,NULL,NULL,NULL
+8,7,James,NULL,NULL,NULL,NULL,NULL,NULL
+8,7,Julia,NULL,NULL,NULL,NULL,NULL,NULL
+8,7,Kate,IN,No,6,No,limoncello;cream;lemon;campari gin;orange;coffee liqueur;chocolate;ricotta,dark chocolate;hazelnuts;lemon;tahini
+8,7,Liam,IN,No,2,No,lemon;white chocolate;honey;nuts;marshmallow;dark chocolate;ricotta,maple;pecan;orange;raisins
+8,7,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,7,Sophie,IN,No,3,No,amaretto;almonds;ginger;lemon;lime cream;chocolate;hazelnuts;mascarpone cream;gelatine,mango;passion fruit;cherry;almond;chocolate
+8,7,Stacey,IN,No,4,No,custard;raspberry jam;lemon cheesecake;white chocolate;tiramisu;cocoa powder;ricotta,orange;sultana;chocolate;praline creame patissiere;nuts
+8,7,Steven,STARBAKER,No,1,No,coffee;hazelnuts;almond praline;chocolate;lemon curd;ricotta,sicilian lemon marmalade;chocolate;orange;ginger
+8,7,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+8,7,Yan,OUT,No,5,No,rose;mint;amaretto;lime;honey;passion fruit;vanilla;cocoa powder;ricotta,lemon;blueberry;pecan praline;maple syrup;bacon dust
+8,8,Chris,NULL,NULL,NULL,NULL,NULL,NULL
+8,8,Flo,NULL,NULL,NULL,NULL,NULL,NULL
+8,8,James,NULL,NULL,NULL,NULL,NULL,NULL
+8,8,Julia,NULL,NULL,NULL,NULL,NULL,NULL
+8,8,Kate,IN,No,2,No,brown rice;vegetable filling;spiced rum;flame raisins;banana rice pudding,toasted pecan;almond extract;chocolate;fondant
+8,8,Liam,OUT,No,5,No,sundried tomatoes;pine nuts;bramely apples;granny smith apples;pesto chicken;mozzarella;apple;plum,lemon zest;bourbon caramel sauce;elderflower;chocolate
+8,8,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,8,Sophie,IN,No,4,No,char siu pork;pecans;dark chocolate;banana,yuzu powder;yuzu buttercream;green apple crème diplomat;freeze-dried strawberries;croquembouche
+8,8,Stacey,STARBAKER,Yes,3,No,camembert;pine nuts;caramelised onions;wild rocket;bramley apples;blueberries;cinnamon custard,orange;lemon;st clements buttercream;macarons;madeleines;jellies;meringues
+8,8,Steven,IN,No,1,No,sweet potato;feta cheese;medjool dates;figs;onioin;orange blossom,chestnut puree;dark rum;orange;cinnamon;apples;candied chestnut;fondant
+8,8,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+8,8,Yan,NULL,NULL,NULL,NULL,NULL,NULL
+8,9,Chris,NULL,NULL,NULL,NULL,NULL,NULL
+8,9,Flo,NULL,NULL,NULL,NULL,NULL,NULL
+8,9,James,NULL,NULL,NULL,NULL,NULL,NULL
+8,9,Julia,NULL,NULL,NULL,NULL,NULL,NULL
+8,9,Kate,IN,No,4,No,orange cream patissiere;prosecco;peach cream,italian meringue;blueberry jam;mango and passion fruit cream;strawberry;blueberry
+8,9,Liam,NULL,NULL,NULL,NULL,NULL,NULL
+8,9,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,9,Sophie,STARBAKER,No,1,No,strawberry;chestnut puree;rhubarb;vanilla;chocolate;fondant,buttercream;chocolate ganache;coffee mousse;swiss meringue
+8,9,Stacey,OUT,No,2,No,crème patissiere;banana chantilly cream;caramel sauce,white chocolate;italian meringue;passion fruit;raspberry and lemon mousse;vanilla panna cotta
+8,9,Steven,IN,No,3,No,wholemeal coconut;coconut cream cheese;lime curd;frangipane;almond extract;crème patissiere;raspberry jam,lemon italian meringue;blackberry curd;balsamic strawberry eton mess;peppermint white chocolate ganache;macarons
+8,9,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+8,9,Yan,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,Chris,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,Flo,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,James,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,Julia,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,Kate,RUNNERUP,No,3,No,spelt;honey;kala chana;jaggery goor,black sesame tuile;yuzu zest;coconut;dragon fruit;chocolate;yuzu and white chocolate bavarois
+8,10,Liam,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,Peter,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,Sophie,WINNER,No,2,No,dried wild mushrooms;shitake mushrooms;orange zest,honey custard;blackberry jelly;orange blossom;lemon curd;hazelnut feuilletine;lavender mousse;white chocolate;honeycomb
+8,10,Stacey,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,Steven,RUNNERUP,No,1,No,garlic;rosemary;fontina cheese;spelt;chocolate chips;cinnamon,crème brulee;chocolate mousse;hazelnut;banana;chocolate
+8,10,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+8,10,Yan,NULL,NULL,NULL,NULL,NULL,NULL
+9,1,Antony,IN,No,12,No,Mango Chilli Jam;Turmeric,Ginger;cinnamon;chocolate;fondant
+9,1,Briony,IN,No,2,No,Apple Cider;Caramelised Apple Slice;vanilla shortbread,Lemon;poppy seed;gin royal icing
+9,1,Dan,IN,No,4,No,Lemon zest;Strawberry Jam;,Passion fruit butter cream;mango royal icing;almond sugar cookies
+9,1,Imelda,OUT,No,11,No,Cherry;White Chocolate;Oatmeal;Wholemeal flour,lemon;ginger;ground almond;vanilla buttercream
+9,1,Jon,IN,No,5,No,butterscotch swiss meringue buttercream; shortbread,Cinnamon;orange;lemon curd;buttercream;royal icing;white chocolate 
+9,1,Karen,IN,No,6,No,Flower paste;mace;corriander;nutmeg,royal icing;flower paste;rosewater;cardamom
+9,1,Kim-Joy,IN,No,10,No,Orange Blossom water;edible primula,cinnamon;clove;ginger
+9,1,Luke,IN,No,8,No,Lime zest;lime juice;lime buttercream;ginger,cinnamon;orange zest;royal icing;cinnamon butter cream
+9,1,Manon,STARBAKER,No,3,No,Clotted cream;hazelnut;milk chocolate,Matcha ganache;almond royal icing;white chocolate ganache
+9,1,Rahul,IN,No,7,No,Fennel;Coconut;mixed peel;chocolate,Dark chocolate;lemon buttercream;boiled sweets
+9,1,Ruby,IN,No,1,No,Cardamom;pistachio;clove;cinnamon;dark chocolate;masala chai,Crystallised ginger;gold leaf;marshmallow fondant
+9,1,Terry,IN,No,9,No,Oatmeal;chocolate wafer;crystallised ginger;shortbread,Vanilla buttercream;raspberry jam;crushed meringue;brandy snap
+9,2,Antony,IN,No,9,No,cardamom;coconut;almond frangipane;pineapple jam,pistachio;saffron swiss meringue buttercream;rose water;edible flowers
+9,2,Briony,IN,No,5,No,Orange pastry;almond sponge;chocolate ganache;almond turron,Chocolate fudge;caramel sponge;salted caramel vodka buttercream;dark chocolate;peanut butter
+9,2,Dan,IN,Yes,3,No,vanilla cream;cherry;kirsch syrup;chocolate,dark chocolate;raspberry;raspberry jam;italian meringue buttercream;white chocolate
+9,2,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,2,Jon,IN,No,1,No,lemon meringue;white chocolate;lemon;rosemary,pineapple sponge;pineapple curd;coconut;chocolate
+9,2,Karen,IN,No,11,No,marzipan;almond;rhubarb jam;custard powder;custard royal icing,dark chocolate;strawberry ganache;strawberry jam;strawberry liqueur 
+9,2,Kim-Joy,IN,No,4,No,pandan;coconut;palm sugar cream;royal icing;sugar spirals,genoise sponge;yuzu curd;raspberry;fondant;italian meringue buttercream
+9,2,Luke,OUT,No,7,No,lemon;poppy seed;white chocolate;candied lemon;mascarpone cream,whipped double cream;white chocolate;raspberry;chocolate
+9,2,Manon,IN,No,6,No,Pistachio nougatine;honey;rosemary;fig,white chocolate;dark chocolate;almond crème diplomate;fondant
+9,2,Rahul,STARBAKER,No,2,Yes,italian meringue buttercream;lemon curd;cardamom;joconde sponge;lemon,dark chocolate;orange syrup;white chocolate swiss meringue;orange;crème au beurre
+9,2,Ruby,IN,No,10,Yes,cherry;dark chocolate;white chocolate;kirsch,chocolate mascarpone;hazelnut cream;orange cream;hazelnut brittle;white chocolate;orange liqueur
+9,2,Terry,IN,No,8,No,apple sauce;rum;raisins;dates;dark chocolate ganache;candied walnuts,white chocolate;champagne buttercream;strawberry;chocolate
+9,3,Antony,OUT,No,8,No,cinnamon;peanut butter;boozy caramel sauce;bacon;pecan;rum soaked raisins,chocolate;apricot and orange liqueur glaze;orange
+9,3,Briony,IN,No,9,No,balsamic strawberry glaze;mascarpone icing;raisins;pistachios;balsamic strawberry,lemon zest;lime zest;orange zest;salted caramel vodka;plaited dough
+9,3,Dan,IN,Yes,6,No,candied orange syrup;brandy soaked sultanas,orange zest;lemon zest;spiced rum
+9,3,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,3,Jon,IN,No,2,No,salted caramel;peacan;fondant icing;pecan butter;marshmallow,welsh tea;mixed spice;chopped dried fruit;plaited dough
+9,3,Karen,IN,No,5,No,cranberry;royal icing;glace cherry;flaked almonds;,coffee;chocolate chips;matcha 
+9,3,Kim-Joy,IN,No,10,No,tangzhong;pistachio;cardamom;lemon zest;royal icing,cinnamon;cranberry
+9,3,Luke,NULL,NULL,NULL,NULL,NULL,NULL
+9,3,Manon,IN,No,3,No,chai tea;apricot jam glaze;cranberry;marzipan,orange blossom;chocolate;lattice
+9,3,Rahul,STARBAKER,No,4,No,dried cranberries;mango;mango icing;bengali five spice,orange zest;lemon zest
+9,3,Ruby,IN,No,7,No,ghee;gujarela;dark chocolate;dates;almonds;raisins;vanilla;cinnamon,apricot;almond liqueur;cherry;braided spiral dough;apricot jam glaze;flaked almonds
+9,3,Terry,IN,No,1,No,apricots;dates;lemon water icing;amalfi lemon;mixed peel,orange;lemon;vanilla;cinnamon butter
+9,4,Antony,NULL,NULL,NULL,NULL,NULL,NULL
+9,4,Briony,IN,No,5,No,mascarpone cream;pears;dried pears;pecan;meringue,white chocolate;amaretto;blood orange zest;sticky toffee pudding tart
+9,4,Dan,STARBAKER,Yes,1,No,coconut cream;flaked coconut;mango;strawberry;lime curd;meringue,joconde;toasted hazelnut;honey and vanilla poached peaches;hazelnut biscuits;dark chocolate;caramel sauce
+9,4,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,4,Jon,IN,Yes,3,No,meringue;passion fruit and lime curd;white chocolate cream;mango;mango spheres,white chocolate;dark chocolate;white chocolate ganache;raspberry ganache;kirsch syrup joconde;raspberry and kirsch syrup
+9,4,Karen,IN,No,7,No,meringue;irish coffee cream custard;hazelnut pralines;coffee caramel;dark chocolate;whiskey,dark chocolate;raspberry syllabub;raspberry liqueur chocolate brownie;raspberry liqueur coulis;white chocolate;mascarpone;royal icing
+9,4,Kim-Joy,IN,No,6,No,meringue;whipped cream;passion fruit curd;raspberry;falked almonds,chocolate orange craquelin;orange liqueur cream;blanced almonds;dark chocolate;salted caramel sauce;choux
+9,4,Luke,NULL,NULL,NULL,NULL,NULL,NULL
+9,4,Manon,IN,No,8,No,mascarpone cream;kirsch;dark cherry;amarene cherry;meringue,white chocolate;crème anglaise;white chocolate mousse;raspberry curd;dark chocolate;raspberry;praline
+9,4,Rahul,IN,No,4,No,rhubarb compote;cream custard;meringue;flaked almonds,chocolate joconde;plain joconde;coffee crème anglaise;coffee french buttercream;dark chocolate
+9,4,Ruby,IN,No,2,No,rosted pineapple;coconut rum cream;meringue;desiccated coconut;meringue,pistachio;white chocolate coconut ganache;passion fruit curd;mango swiss meringue;milk chocolate
+9,4,Terry,SKIP,NULL,NULL,NULL,NULL,NULL
+9,5,Antony,NULL,NULL,NULL,NULL,NULL,NULL
+9,5,Briony,IN,No,6,No,ginger;dried apricot;dark chocolate ganache;honeycomb;honey buttercream,turmeric;coriander;cloves;lemon juice
+9,5,Dan,IN,No,2,No,white chocolate;ginger;lemon curd;lemon swiss meringue buttercream,cinnamon;apple royal icing
+9,5,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,5,Jon,IN,No,7,No,stem ginger;gingerbread;lemon glitter balls;italian meringue buttercream,cinnamon marshmallow;cinnamon;raspberry chilli jam;sugar glass
+9,5,Karen,OUT,No,9,No,crystallised ginger;cinder toffee;honeycomb;brandy;cream cheese frosting,liquorice;cardamom;sugar glass
+9,5,Kim-Joy,STARBAKER,Yes,4,No,crystallised ginger;gingerbread;cream cheese frosting;salted caramel drizzle;poached pears,nutmeg;cinnamon;cardamom;cloves;isomalt glass
+9,5,Luke,NULL,NULL,NULL,NULL,NULL,NULL
+9,5,Manon,IN,Yes,5,No,lemon italian meringue;candied lemon;ginger;lemon curd,chocolate;tonka bean;timut pepper;cinnamon ganache
+9,5,Rahul,IN,Yes,3,No,ginger honeycomb;cindar toffee;swiss meringue buttercream;ginger;stem ginger,cardamom;orange;mixed fruit sweets;vanilla
+9,5,Ruby,IN,No,1,No,ginger snaps;toffee drizzle;orange mascarpone cream;ginger;rum,pistachio;cardamom;clove;cinnamon;raspberry;white chocolate ganache
+9,5,Terry,OUT,No,8,No,Caramelised pears;stem ginger;vanilla cream;cream cheese frosting,pepper;cloves;all spice;vanilla;lemon royal icing
+9,6,Antony,NULL,NULL,NULL,NULL,NULL,NULL
+9,6,Briony,STARBAKER,No,1,No,beetroot;port soaked cranberries;spinach;mascarpone cheese;peanut butter;golden syrup,sweet potato;venison;mushroom
+9,6,Dan,OUT,No,6,No,chopped walnut;pear;stilton;caramelised hazelnut;chopped banana,rice;boiled egg;lightly smoked salmon
+9,6,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,6,Jon,IN,No,2,No,chicken;pesto;orange zest;vanilla crème patissiere,spiced minced beef;leeks;carrots
+9,6,Karen,NULL,NULL,NULL,NULL,NULL,NULL
+9,6,Kim-Joy,IN,No,5,No,kashmiri chilli;onion;paneer;crystallised ginger;chai spices;granny smith apples,beetroot;butternut squash;feta cheese;caramelised onion
+9,6,Luke,NULL,NULL,NULL,NULL,NULL,NULL
+9,6,Manon,IN,No,4,No,confit lemon;chicken;green olives;salted caramel;cox's apples,salmon paste;whiting;scallops 
+9,6,Rahul,IN,Yes,3,No,ground coriander;potato;paneer;ricotta cheese;desiccated coconut;cashew nuts,rice;lamb curry
+9,6,Ruby,IN,Yes,7,No,onion;peas;spiced potatoes;orange infused date;almond paste;chopped almonds;cumin seeds,rice;nigella seeds;chicken curry
+9,6,Terry,NULL,NULL,NULL,NULL,NULL,NULL
+9,7,Antony,NULL,NULL,NULL,NULL,NULL,NULL
+9,7,Briony,IN,No,5,No,onion;ground almonds;vegan goat's cheese;oat cream;apple syrup;celeriac puree;sweet potato;mixed spice;prosecco,dried raspberries;coffee liqueur ganache;roasted hazelnuts;mocha;chocolate
+9,7,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+9,7,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,7,Jon,OUT,No,4,No,sauteed mushrooms;baked mushrooms;sweet potato mash;garlic;vegan cream cheese;falafel;hummus,agar agar fondant;vegan chocolate cake;orange curd icing;meringue;orange zest;buttercream
+9,7,Karen,NULL,NULL,NULL,NULL,NULL,NULL
+9,7,Kim-Joy,STARBAKER,Yes,6,No,tofu;indian black salt;nutritional yeast;balsamic beetroot;broccoli;tomato;onion,vanilla cookies;aguafaba royal icing;butter cream;dried lavender;lemon curd
+9,7,Luke,NULL,NULL,NULL,NULL,NULL,NULL
+9,7,Manon,IN,No,2,No,eggplant;zucchini;rosemary;chestnut;mushroom;cashew milk bechamel;tomato,matcha;turmeric;beetroot powder;cinnamon apples;vegan chocolate
+9,7,Rahul,IN,No,1,No,eggplant;zucchini;carrot;vegan yogurt;chickpea curry;cashew nut paste,coconut;chocolate;vegan coconut buttercream;coconut syrup;raspberry jam;sugar shards
+9,7,Ruby,IN,No,3,No,butternut squash;garlic salt;cashew milk and arrowroot cheese;nutritional yeast,chocolate;lemon;vanilla syrup;raspberries;coconut
+9,7,Terry,NULL,NULL,NULL,NULL,NULL,NULL
+9,8,Antony,NULL,NULL,NULL,NULL,NULL,NULL
+9,8,Briony,IN,No,1,No,chorizo;iberico ham;flaked mackerel;tomato;asparagus;sweet potato;fig jam;beetroot,toffee;dried blueberries;marshmallow;ginger crème patissiere
+9,8,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+9,8,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,8,Jon,NULL,NULL,NULL,NULL,NULL,NULL
+9,8,Karen,NULL,NULL,NULL,NULL,NULL,NULL
+9,8,Kim-Joy,IN,No,2,No,cucumber;radish;smoked slamon;boiled eggs;havarti cheese;tomato,royal icing;crème patissiere;white chocolate
+9,8,Luke,NULL,NULL,NULL,NULL,NULL,NULL
+9,8,Manon,OUT,No,4,No,mascarpone cream;gorgonzola cheese;strawberry;goats cheese;pear;radish;greens,bon bon;caramel;nougatine;marshmallow;pain au chocolat
+9,8,Rahul,IN,No,5,No,smoked salmon;carrot;celeriac;shallots;curry powder;lemon;dill;cream cheese;beetroot;asparagus;pickled cucumber;sunflower seeds,orange zest;salted caramel;crème patissiere;fruit jelly;chocolate;marzipan;buttercream
+9,8,Ruby,STARBAKER,No,3,No,egg;avocado;asparagus;chorizo;tandoori chicken;cumin seeds,frangipane;apricot;honeycomb;chocolate truffle;marzipan;crystallised ginger
+9,8,Terry,NULL,NULL,NULL,NULL,NULL,NULL
+9,9,Antony,NULL,NULL,NULL,NULL,NULL,NULL
+9,9,Briony,OUT,No,3,No,mint tea;lime zest;spiced rum;white chocolate;dark chocolate;coffee bean;espresso,coffee crème patissiere;walnut;cherry mousse;cherry jelly;blueberries;raspberries;chocolate;lemon
+9,9,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+9,9,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,9,Jon,NULL,NULL,NULL,NULL,NULL,NULL
+9,9,Karen,NULL,NULL,NULL,NULL,NULL,NULL
+9,9,Kim-Joy,IN,No,2,No,orange;lemon;ginger;chopped pistachios;white chocolate,mango;passion fruit;strawberry;orange crème diplomat;blue berry;french meringue;icing;sugar spirals
+9,9,Luke,NULL,NULL,NULL,NULL,NULL,NULL
+9,9,Manon,NULL,NULL,NULL,NULL,NULL,NULL
+9,9,Rahul,IN,No,4,No,chopped hazelnuts;white chocolate;dark chocolate;freeze dried raspberries;orange curd;lemon,lemon curd;blueberry;caramel glaze;chocolate;strawberry;raspberry;crème diplomat
+9,9,Ruby,STARBAKER,No,1,No,raspberry;white chocolate;desiccated coconut;orange;stem ginger;dark chocolate,strawberry;mint;chocolate;hazelnut;crème chantilly;lemon verbena;swiss meringue;orange shortbread
+9,9,Terry,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Antony,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Briony,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Imelda,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Jon,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Karen,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Kim-Joy,RUNNERUP,No,1,No,lemon;lemon glaze;amaretto crème diplomat;orange glaze,ginger cake;ginger biscuit;orange buttercream;salted caramel;isomalt coral;nutmeg;cloves;crushed praline;fondant;crystallised ginger
+9,10,Luke,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Manon,NULL,NULL,NULL,NULL,NULL,NULL
+9,10,Rahul,WINNER,No,2,No,mango crème patissiere;orange;cinnamon;ginger;orange buttercream;royal icing,orange buttercream;cardamom crème diplomat;chocolate;orange;lemon joconde;orange curd;ginger biscuit
+9,10,Ruby,RUNNERUP,No,3,No,dulce de leche;cinnamon;cardamom;freeze dried raspberry;white chocolate,passion fruit curd;praline;blueberry compote;salted pistachio brittle;choux;cardamom;lemon crème patissiere
+9,10,Terry,NULL,NULL,NULL,NULL,NULL,NULL
+10,1,Alice,IN,No,5,No,gingerbread;fig;blackberry,lemon;raspberries;lemon swiss meringue buttercream
+10,1,Amelia,IN,No,4,No,mixed fruit;orange brandy;marzipan;glace cherries;royal icing;crystallised ginger,rice krispies;white chocolate ganache;red velvet;raspberry jam
+10,1,Dan,OUT,No,9,No,dried fruit;spiced rum buttercream;coffee and almond brittle,lime zest;coconut;passionfruit curd;isomalt 
+10,1,David,IN,No,10,No,orange zest;carrot;squash;almond florentines;hazelnut marzipan;marzipan;dried prunes;dried figs,rice krispies;chocolate;orange zest;fondant
+10,1,Helena,IN,No,12,No,spiced pumpkin;maple cream cheese buttercream;dried prunes;toasted pecan,chocolate;chocolate buttercream;fondant;desiccated coconut;coffee
+10,1,Henry,IN,No,1,No,chocolate;royal icing;dried fruit,chocolate;chocolate ganache;woodland berries;blackberry
+10,1,Jamie,IN,No,13,No,marzipan;strawberry jam,salted carmael buttercream;vanilla biscuits;salted caramel sauce
+10,1,Michael,IN,No,11,No,chai;sultanas;apricots,cinder toffee;chocolate;salted caramel buttercream
+10,1,Michelle,STARBAKER,No,6,No,tea;pecan;welsh rum icing;mixed fruit,carrot;orange;cinnamon;fondant
+10,1,Phil,IN,No,8,No,marzipan;cinnamon;ginger;nutmeg;allspice;cloves;sugar frosted fruits;run icing,rice krispies;sherbert;raspberry ripple buttercream
+10,1,Priya,IN,No,7,No,dried papaya;dried pineapple;dried mango;marzipan,chocolate;orange zest;chocolate orange buttercream;meringue
+10,1,Rosie,IN,No,2,No,dried apple;dried strawberry;dried mango;strawberry and mango jam;indian chai;french buttercream,chocolate;red velvet;fondant;vanilla italian meringue buttercream
+10,1,Steph,IN,No,3,No,orange zest;candied oranges;apricot;marzipan,dark chocolate ganache;vanilla and raspberry buttercream;coconut
+10,2,Alice,STARBAKER,No,1,No,marshmallow;salted peanut caramel;honeycomb,chocolate;coconut;lime;macaron
+10,2,Amelia,IN,No,9,No,rosehip syrup;pistachio;almond;raisin,lemon zest;orange extract;viennese whirl;
+10,2,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,2,David,IN,No,2,No,dark chocolate;chocolate;nougat;pistachio;coconut,almond tuile;fennel;lime;grapefruit;caraway;cardamom;lemon
+10,2,Helena,IN,No,12,No,matcha;almond;salted caramel,chocolate;orange zest;lemon zest;earl grey;spiced macadamia nuts
+10,2,Henry,IN,No,6,No,hazelnut;chocolate and cardamom mousse;dark chocolate,boiled sweets;almond tuile;ginger
+10,2,Jamie,OUT,No,11,No,sour cherry caramel;dark chocolate,chocolate;ginger;lemon royal icing;lemon
+10,2,Michael,IN,No,4,No,dark chocolate;lemon curd;lemon marshmallow;rosemary;gin,ginger;chocolate;orange;tuile;viennese whirl;chilli
+10,2,Michelle,IN,No,8,No,raspberry jam;white chocolate;almond marshmallow,lemon zest;cardamom;pistachio;brandy snap;macarons
+10,2,Phil,IN,No,3,No,orange zest;white chocolate;dried cranberries;milk chocolate,cherry;citrus peel;almonds;brandy snap
+10,2,Priya,IN,No,7,No,cardamom;ruby chocolate;passionfruit jelly;raspberry and coconut barfi,langues de chat;orange;cinnamon;brandy snap
+10,2,Rosie,IN,No,5,No,lime jelly;mint marshmallow;choocolate,Tuile;ginger;lemon zest
+10,2,Steph,IN,No,10,No,coffee;coffee beans;caramel;dark chocolate,cinnamon;nutmeg;clove;brandy snap;ginger
+10,3,Alice,IN,No,7,No,candied orange;chopped pistachios;dried rose petals;honey;orange blossom;spices,beetroot;walnut;linseeds;poppy seeds;carrot;coriander;garlic;rosemary;mixed seeds
+10,3,Amelia,OUT,No,11,No,chorizo;peppers;caramlised onions;garlic;harissa,roasted red pepper;matcha powder;beetroot powder;garlic
+10,3,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,3,David,IN,No,2,No,cinnamon;sugar glaze;brandy soaked fruit;vanilla buttercream,charcoal powder;annatto powder;beetroot powder;blue pea flower powder
+10,3,Helena,IN,No,8,No,toasted pecans;cream cheese,parmesan;sesame seeds;charcoal powder;spirulina
+10,3,Henry,IN,No,1,No,chicken;pesto;poppy seeds;sesame seeds;black olives,rosemary;black olive;walnut;parsley;raisin;caraway;thyme;sage;poppy seed flowers
+10,3,Jamie,NULL,NULL,NULL,NULL,NULL,NULL
+10,3,Michael,STARBAKER,Yes,6,No,coconut chutney;paprika,black onion seeds;charcoal powder;smoked garlic;parmesan;red pepper;olive
+10,3,Michelle,IN,No,5,No,pancetta;pear;black garlic;walnut;truffle;fruit compote;angiddy cheese;golden cenarth cheese,raspberry;passionfruit powder;raisins;hazelnut paste
+10,3,Phil,IN,No,10,No,garlic;parsley;rosemary;gruyere cheese;grana padano cheese;smoked pancetta;chives,spelt;beetroot;parsley;sage;thyme;smoked applewood cheese
+10,3,Priya,IN,No,4,No,onion;jalapeno;cheddar;red leicester;smoked paprika;chillies,italian seasoning;beetroot powder;blue pea flower powder
+10,3,Rosie,IN,No,9,No,candied chilli;manchego;red onions;garlic;balsamic,sun-dried tomato;garlic;turmeric;coriander;beetroot;chilli 
+10,3,Steph,IN,No,3,No,parmesan cheese;sun-dried tomatoes;basil sauce;lemon zest,beetroot;rosemary;turmeric;wholemeal;sesame seeds
+10,4,Alice,IN,No,8,No,yogurt;cardamom;lemon;pistachio,carrot;coffee;chocolate cheesecake
+10,4,Amelia,NULL,NULL,NULL,NULL,NULL,NULL
+10,4,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,4,David,IN,No,2,No,lemon;poppy seed;limoncello glaze;yogurt,kewra water;cardamom;mango;carrot;fennel tuile
+10,4,Helena,IN,No,9,No,buttercream;almond;buttermilk;orange zest,chocolate;coconut;parma violet;lemon sherbet
+10,4,Henry,IN,No,3,No,spiced apple;apple crisps;yogurt;cinnamon;streusel,pistachio and raspberry icecream;orange;coconut
+10,4,Jamie,NULL,NULL,NULL,NULL,NULL,NULL
+10,4,Michael,IN,No,7,No,sour cream;raspberry cheesecake swirl;lemon;raspberry,pistachio;mango;lemon;rosewater
+10,4,Michelle,IN,No,5,No,rhubarb;pecan;meringue kisses;freeze-dried raspberries;apple crisps;buttermilk;custard buttercream,passion fruit;chocolate;tonka bean rice pudding;raspberry
+10,4,Phil,OUT,No,6,No,rosewater syrup;buttercream;yogurt;,chocolate;elderflower;pistachio;blueberry
+10,4,Priya,IN,No,10,No,banana;chocolate;yogurt;toffee sauce;chocolate chips;dried bananas,saffron;cardamom;mango;rosewater;lychee
+10,4,Rosie,IN,No,4,No,lemon zest;limoncello;buttermilk;meringue kisses,rose water;sweet milk custard;orange
+10,4,Steph,STARBAKER,No,1,No,chocolate;raspberry;buttermilk;raspberry coulis;pistachios,pistachio;rosewater;mango;date;walnut
+10,5,Alice,IN,No,6,No,chocolate;orange curd;orange extract,caramelised rum pineapple;coconut buttercream
+10,5,Amelia,NULL,NULL,NULL,NULL,NULL,NULL
+10,5,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,5,David,IN,Yes,9,No,vanilla custard;glazed fruit,amaretto;lemon;aromatic bitters buttercream
+10,5,Helena,OUT,No,1,No,modeling chocolate;lemon zest;lemon custard;lavender;meringue,red velvet;cream cheese icing;vanilla buttercream;raspberry vodka;isomalt;white chocolate
+10,5,Henry,IN,No,3,No,raspberry curd;white chocolate mousse;lemon and lime custard;raspberry;candied lemon slices;italian meringue,italian meringue coffee buttercream;coffee liqueur;chocolate;hazelnut praline
+10,5,Jamie,NULL,NULL,NULL,NULL,NULL,NULL
+10,5,Michael,IN,No,8,No,mango and lime custard;mango gelee discs;ginger;meringue kisses;white chocolate;dark chocolate ganache;ginger honeycomb;sugared lime peel,gin and lemon and blackberry syrup;blackberries;crème de mure buttercream
+10,5,Michelle,OUT,No,7,No,blueberry compote;white chocolate custard;fig;strawberry;raspberry;blackberry,coconut extract;rum buttercream;toasted coconut flakes;pineapple
+10,5,Phil,NULL,NULL,NULL,NULL,NULL,NULL
+10,5,Priya,IN,No,2,No,lemon custard;raspberry custard;lemon;sliced fruit,passion fruit syrup;coconut buttercream;pineapple curd;royal icing
+10,5,Rosie,IN,No,5,No,elderflower jelly;matcha;blackberry;custard,coffee liqueur;vodka swiss meringue buttercream;chocolate caramel;cream;dark chocolate ganache;royal icing
+10,5,Steph,STARBAKER,No,4,No,lemon and lime and orange custard;italian meringue;blueberry,white rum swiss meringue buttercream;lime;coconut;candy shards
+10,6,Alice,IN,No,1,No,chocolate;chocolate mousse;cherry compote;cherry buttercream,espresso;espresso chocolate mousse;pistachio parfait;praline;spiced rum mascarpone cream
+10,6,Amelia,NULL,NULL,NULL,NULL,NULL,NULL
+10,6,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,6,David,IN,No,2,No,clove;cinnamon;star anise;figs;blackberries;vanilla crème diplomat,white chocolate and raspberry mousse;lemon and shiso leaf sorbet;raspberry and rose water jelly
+10,6,Helena,NULL,NULL,NULL,NULL,NULL,NULL
+10,6,Henry,IN,No,4,No,pistachio;chocolate crème patissiere;raspberries;chocolate,cinnamon meringue;bramley apple mousse;spiced honey mousse;cinnamon chanilly cream
+10,6,Jamie,NULL,NULL,NULL,NULL,NULL,NULL
+10,6,Michael,IN,No,6,No,chocolate;orange crème au beurre;hazelnut;dark chocolate and orange ganache;orange liqueur,cherry jelly;chocolate and almond mousse;chocolate and cherry italian meringue;cherry cheesecake;freeze-dried cherries
+10,6,Michelle,NULL,NULL,NULL,NULL,NULL,NULL
+10,6,Phil,NULL,NULL,NULL,NULL,NULL,NULL
+10,6,Priya,OUT,No,7,No,amaretto crème patissiere;almond;blueberry crème au beurre,crème de cassis blackcurrant liqueur;dark chocolate mousse;summer fruit bavarois;dark chocolate ganache;raspberry meringue shards
+10,6,Rosie,IN,No,5,No,salted caramel;raspberry and lime curd;chocolate ganache;raspberry cream,mango bavarois;honey cake;lemon;hibiscus mousse;caramelised salted white chocolate
+10,6,Steph,STARBAKER,No,3,No,pistachio;raspberries;white chocolate cream cheese,coffee bavarois;dark chocolate mousse;amaretto;joconde sponge;chocolate
+10,7,Alice,IN,No,6,No,lemon zest;blueberry;almond;freeze-dried blueberries;lemon curd glaze,
+10,7,Amelia,NULL,NULL,NULL,NULL,NULL,NULL
+10,7,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,7,David,IN,No,2,No,raisins;lemon;almond;malt powder,cloves;cinnamon;cardamom;nutmeg
+10,7,Helena,NULL,NULL,NULL,NULL,NULL,NULL
+10,7,Henry,STARBAKER,Yes,3,No,chocolate;cardamom glaze;almond and chocolate crème patissiere,lemon;lime;raspberry and mint jam
+10,7,Jamie,NULL,NULL,NULL,NULL,NULL,NULL
+10,7,Michael,OUT,No,5,No,brandy glaze;marzipan;lemon zest;orange zest;fig;sultanas;cranberries;dates;apricots;brandy butter,spiced rum and lime marzipan;royal icing;ginger and lime curd
+10,7,Michelle,NULL,NULL,NULL,NULL,NULL,NULL
+10,7,Phil,NULL,NULL,NULL,NULL,NULL,NULL
+10,7,Priya,NULL,NULL,NULL,NULL,NULL,NULL
+10,7,Rosie,IN,No,1,No,lemon and white chocolate namelaka;raspberry jam;candy,lemon;mixed spice;nectarine jam;royal icing
+10,7,Steph,IN,Yes,4,No,cranberries;sultanas;spiced glaze;orange zest;lemon zest;cinnamon;cloves;star anise,orange liqueur syrup;royal icing;marzipan;orange;chai;spice
+10,8,Alice,IN,No,3,No,leek;goat cheese;honey;thyme;granny smith apple,granny smith apple;blackberry;toasted pecans;caramel
+10,8,Amelia,NULL,NULL,NULL,NULL,NULL,NULL
+10,8,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,8,David,IN,No,1,No,heritage carrot;walnut;shallots;carrot top pesto;whipped sirene,crab;salmon;root vegetables;whitby;
+10,8,Helena,NULL,NULL,NULL,NULL,NULL,NULL
+10,8,Henry,OUT,No,5,No,crab;new potato;tomato;radish,ham;chicken;cranberries;apricot;blackberries;mint leaves;chorizo;cinnamon;chocolate;pecan
+10,8,Jamie,NULL,NULL,NULL,NULL,NULL,NULL
+10,8,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+10,8,Michelle,NULL,NULL,NULL,NULL,NULL,NULL
+10,8,Phil,NULL,NULL,NULL,NULL,NULL,NULL
+10,8,Priya,NULL,NULL,NULL,NULL,NULL,NULL
+10,8,Rosie,IN,No,2,No,eggplant;shallot;black garlic;red pepper;goat cheese;spice,chillies;curried vegetables;roasted vegetables;camembert
+10,8,Steph,STARBAKER,No,4,No,onion;shallots;goat cheese;balsamic venegar caramel;basil,chillies;chickpea and potato curry
+10,9,Alice,STARBAKER,No,4,No,mocha mousse;espresso buttercream;orange curd;hazelnut praline paste;chocolate,lemon and honey custard;raspberry curd;chocolate;white chocolate bavarois;isomalt
+10,9,Amelia,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,David,IN,No,2,No,liqueur spritz;speritif jelly;leche flan;orange pastry disk;roasted rhubarb;hazelnuts,parsnip;beetroot;prunes;apricots;chocolate;almonds;hazelnuts;buttercream
+10,9,Helena,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,Henry,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,Jamie,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,Michelle,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,Phil,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,Priya,NULL,NULL,NULL,NULL,NULL,NULL
+10,9,Rosie,OUT,No,1,No,pate sablee;lemon bavarian cream;raspberry gin;mint crème pat;yuzu jelly;lemon,choux bun religieuse;mocha crème pat;brioche tarte tropezienne;chocolate tartlet;salted caramel crème;crème patissiere;chocolate ganache;orange sablee
+10,9,Steph,IN,No,3,No,white chocolate;raspberry jelly;lemon mousse;pate sablee;dark chocolate,chocolate;joconde sponge;chocolate orange macarons;chocolate ganache;orange crème au beurre
+10,10,Alice,RUNNERUP,No,2,No,pears;chocolate;ginger;dark chocolate ganache;maple cream cheese buttercream;hazelnut brittle;red win;e cinnamon,raspberry;prosecco;orange;cardamom;carrot;blueberry;lemon curd;lemon cream cheese
+10,10,Amelia,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Dan,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,David,WINNER,No,1,No,prune;armagnac syrup;armagnac cream;chocolate;dark chocolate;cocoa powder;vanilla syrup,saffron;orange blossom water;orange;apricot;fig;lemon
+10,10,Helena,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Henry,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Jamie,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Michael,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Michelle,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Phil,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Priya,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Rosie,NULL,NULL,NULL,NULL,NULL,NULL
+10,10,Steph,RUNNERUP,No,3,No,chocolate ganache;kirsch chantilly cream;cherry jam;cherries,spiced orange;almond;lemon;poppy seed;coconut
+11,1,Dave,IN,No,9,No,chocolate and coffee liqueur;vodka and coffee;vodka marzipan,dark chocolate buttercream;mint;strawberry
+11,1,Hermine,IN,No,5,No,orange liqueur marzipan;dark chocolate;orange,chocolate;coffee cream cheese icing;
+11,1,Laura,IN,No,6,No,raspberry ripple;coconut;butter cream,lemon and elderflower mascarpone cream;lemon;elderflower
+11,1,Linda,IN,No,12,No,raspberry buttercream,lemon;orange;lemon curd;orange curd;coconut rum mascarpone cream
+11,1,Loriea,OUT,No,10,No,bubble gum extract;cream soda syrup;cream soda flavouring;almond marzipan,scotch bonnect chilli;chocolate;spiced ginger and mango jam;swiss meringue buttercream
+11,1,Lottie,IN,No,4,No,rhubarb jam;custard,coconut;lime;orange and chocolate buttercream
+11,1,Makbul,IN,No,8,No,pistachio marzipan;spiced stem ginger;orange,lemon;redcurrant jam;vanilla buttercream
+11,1,Marc,IN,No,11,No,sour cherry;chocolate;walnut;rosewater marzipan,chocolate;vanilla buttercream
+11,1,Mark,IN,No,7,No,pistachio;cardamom;pomegranate;orange;almond and orange marzipan,spiced ginger;coconut buttercream;chocolate and ginger ganache
+11,1,Peter,STARBAKER,No,2,No,chocolate;pureed orange;chocolate and orange zest marzipan,strawberry jam;whipped double cream
+11,1,Rowan,IN,No,3,No,rose;vanilla;lemon,chocolate;kirsch-soaked cherries;white chocolate
+11,1,Sura,IN,No,1,No,lemon;orange,coconut;raspberry italian meringue buttercream
+11,2,Dave,STARBAKER,No,1,No,dried mango;white chocolate;milk chocolate;dark chocolate;candied peel,cocoa powder;coffee;chocolate;brandy snap;amoretti
+11,2,Hermine,IN,No,5,No,dried mango;coconut;almond;ruby chocolate,spiced ginger;royal icing
+11,2,Laura,IN,No,7,No,almond;pecan;jumbo raisins;candied peel;milk chocolate;salted caramel,ginger;brandy snap
+11,2,Linda,IN,No,4,No,dark chocolate;crystallised ginger;brazil nuts;hazelnuts;pecans,royal icing;rose water
+11,2,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,2,Lottie,IN,Yes,8,No,pistachio;almond;coconut;ginger;cour cherry;dark chocolate;white chocolate,ginger;charcoal powder;brandy snap
+11,2,Makbul,OUT,No,3,No,dried mango;cumin seeds;cashew,ginger;naan khatai
+11,2,Marc,IN,No,9,No,ruby chocolate;ginger;dried cherry,spiced ginger;fondant;buttercream
+11,2,Mark,IN,No,2,No,cardamom;white chocolate;macademia nuts;dried mango,coffee;cinnamon;charcoal powder
+11,2,Peter,IN,No,10,No,dark muscovado sugar;dates;almonds;pecans;sultanas;walnuts;caramalised white chocolate,ginger;isomalt;brandy snap;scottish raspberry and oat cranachan cream
+11,2,Rowan,IN,No,11,No,almonds;orange;cherry;dried raspberry;caraway seeds;modeling chocolate,lemon;brandy snap;viennese biscuit
+11,2,Sura,IN,No,6,No,cardamom;saffron;rose water;almonds;pistachios,cinnamon;nutmeg;ginger;black pepper;chocolate truffle;vanilla
+11,3,Dave,IN,No,9,No,bacon;dried dill;dried chives;gruyere cheese;dark chocolates;dates;chilli;hazelnut,mango;lime;chilli;hisbiscus;guava
+11,3,Hermine,IN,Yes,7,No,salmon;gruyere cheese;chives;dried fruit;orange liqueur;cinnamon,mixed herb;parmesan
+11,3,Laura,IN,No,6,No,chorizo;spring onion;chilli;cheddar;glace cherry;marzipan,pancetta;gruyere cheese;red chilli oil
+11,3,Linda,IN,No,1,No,red chilli;green chilli;cheddar cheese;parmesan cheese;coriander;brandy soaked dried fruit,black olive;glaze
+11,3,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,3,Lottie,IN,No,5,No,blueberry;balsamic red onion;kalamata olives;smoked applewood cheese;maple bacon,cheddar;chorizo;sun-dried tomato;pesto
+11,3,Makbul,NULL,NULL,NULL,NULL,NULL,NULL
+11,3,Marc,STARBAKER,No,2,No,cornish kern cheese;grated beetroot;milk chocolate;white chocolate;dried cranberries;beetroot;kelp,fennel seeds;caraway seeds;coriander seeds
+11,3,Mark,IN,No,3,No,sobrasada;irish sheep smoked cheese;irish stout;dark chocolate;honey,apple;hazelnut;cinnamon;wild garlic
+11,3,Peter,IN,No,4,No,black pudding;ginger beer;green ginger wine;oat;alnut;thyme;crystallised ginger,multigrain;poppy seeds
+11,3,Rowan,OUT,No,10,No,italian sausage;fennel seeds;lives;capers;saffrons;lemon;polenta;honey;raisins;olives,blue cheese;pear;chestnut;potato;truffle oil
+11,3,Sura,IN,No,8,No,za'atar;olives;mixed dried fruits;walnuts,olive;sun-dried tomato;feta cheese
+11,4,Dave,IN,No,8,No,honeycomb;popping candy;milk chocolate ganache,strawberry;white chocolate;white chocolate crème mousseline;amaretto;almond liqueur
+11,4,Hermine,IN,No,5,No,white chocolate;raspberry;pistachio;chocolate;coffee,white chocolate;ganache;lemon syrup;lemond curd;itallian meringue buttercream;vanilla extract
+11,4,Laura,IN,No,2,No,chocolate;hazelnut;salted caramel;italian meringue,white chocolate;italian meringue buttercream;blackcurrant jam
+11,4,Linda,IN,No,1,No,white chocolate;chopped mixed nuts;date;pistachio;turkish delights,modeling chocolate;vanilla mascarpone cream;amaretto raspberry jam
+11,4,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,4,Lottie,IN,No,9,No,chocolate;pecan;raspberry cheesecake;raspberry,white chocolate;passion fruit curd;lime drizzle
+11,4,Makbul,NULL,NULL,NULL,NULL,NULL,NULL
+11,4,Marc,IN,No,6,No,roasted macadamia nuts;praline buttercream;chocolate,white chocolate;raspberry swiss meringue buttercream
+11,4,Mark,STARBAKER,No,3,No,chocolate chip cookie;italian meringue;caramelised cranberries,white chocolate;marul fruit liqueur;ground pistachios;lemon
+11,4,Peter,IN,No,4,No,figs;pistachios;cinnamon;chocolate;medjool dates,white chocolate;mango curd;coconut;yoghurt;chantilly whipped cream;chocolate
+11,4,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+11,4,Sura,OUT,No,7,No,dark chocolate;ruby chocolate;italian meringue,chocolate;white chocolate;buttercream;strawberry and lemon jam
+11,5,Dave,IN,No,5,No,thai basil;chilli;chicken;jasmine rice,chocolate;mango;lime;tequila
+11,5,Hermine,IN,No,2,No,raisins;lemon;lamb tagine;chickpea,lemon curd;lime jelly;italian meringue
+11,5,Laura,STARBAKER,No,6,No,onion;cheddar;leeks;cream;dijon mustard;thyme,italian meringue;key lime filling;ginger
+11,5,Linda,OUT,No,8,No,spiced chicken;potato;coriander,chocolate;coffee;brandy;rosewater;vanilla
+11,5,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,5,Lottie,IN,No,4,No,mashed potato;sausage;onion;sage;fennel gravy,apple puree;caramelised apple;boozy apple slices;toffee popcorn crème diplomat
+11,5,Makbul,NULL,NULL,NULL,NULL,NULL,NULL
+11,5,Marc,IN,No,7,No,asparagus;monkfish;samphire,blackberry jam;caramelised apple;chocolate cremeux;chocolate;sesame;glazed blackberries
+11,5,Mark,IN,No,3,No,aloo gobi;paneer cheese;tumeric;cumin;coriander;ginger;garlic;cauliflower,pear;sage;ginger;pear jam;ginger crème patissiere
+11,5,Peter,IN,No,1,No,haddock;white basmati rice;petit pois;boiled egg,hazelnut;blackberry curd;caramelised nuts;lemon
+11,5,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+11,5,Sura,NULL,NULL,NULL,NULL,NULL,NULL
+11,6,Dave,IN,No,3,No,tumeric;chicken;katsu curry sauce,chocolate;match powder;rosewater;apple jam;vanilla buttercream
+11,6,Hermine,IN,No,4,No,oyster sauce;spiced chicken;shitake mushroom;chilli,vanilla;strawberries;marshmallow fondant
+11,6,Laura,IN,No,7,No,caramelised pork belly;hoisin;oyster sauce;sake;honey,pineapple;coconut swiss meringue buttercream;lime and yuzu curd
+11,6,Linda,NULL,NULL,NULL,NULL,NULL,NULL
+11,6,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,6,Lottie,IN,No,2,No,beef;sun-dried tomato;gherkin;bacon;cheese;onion,lime;cherry cream;whisky fudge;black cherries
+11,6,Makbul,NULL,NULL,NULL,NULL,NULL,NULL
+11,6,Marc,IN,No,6,No,mango;onion;smoked paprika;apple;lentil,lemon swiss meringue buttercream;fondant;honey;tahini;ginger;soy bean powder
+11,6,Mark,OUT,No,5,No,gherkin;beef;onion;cheese;tomato puree,avocado;marshmallow fondant;ruby chocolate;buttercream
+11,6,Peter,IN,No,1,No,fish sauce;soy sauce;honey;cumin;lamb;garlic;ginger;chilli;coriander;spring onion;lamb cabbage,asian pears;chestnut cream;white chocolate
+11,6,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+11,6,Sura,NULL,NULL,NULL,NULL,NULL,NULL
+11,7,Dave,IN,No,6,No,potato;scrambled egg;sausage;beef;avocado,coffee ice cream;chocolate;almond liqueur;coffee ice cream;almond ice cream
+11,7,Hermine,STARBAKER,No,1,No,spinach;mushroom;salmon;leek;dijon mustard;gruyere cheese,mango ice cream;coconut ice cream;palet breton;raspberry coulis
+11,7,Laura,IN,No,4,No,calabrian sausage;asparagus;nduja paste;mint;petit pois;goats cheese,salted caramel praline ice cream;chocolate ganache;brownie ice cream;chocolate;meringue
+11,7,Linda,NULL,NULL,NULL,NULL,NULL,NULL
+11,7,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,7,Lottie,OUT,No,5,No,sausage;tomato;black pudding;baked beans;beetroot;walnut;goats cheese,chocolate ice cream;puffed rice;cherry jelly;blackberry mousse
+11,7,Makbul,NULL,NULL,NULL,NULL,NULL,NULL
+11,7,Marc,IN,No,3,No,cod;cornish blue;haddock;davidstow cheddar;spelt;asparagus,honey and hazelnut ice cream;blackberry mousse;butterscotch and pecan ice cream;chocolate joconde
+11,7,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+11,7,Peter,IN,Yes,2,No,salmon;capers;white crab meat;chillies;asparagus;onions;coconut curry,marzipan;italian meringue;brandy ice cream;christmas cake ice cream;chocolate;brandy snap
+11,7,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+11,7,Sura,NULL,NULL,NULL,NULL,NULL,NULL
+11,8,Dave,IN,No,5,No,lemon;orange and passion fruit jelly;lime meringue;orange zest;orange juice,apple jelly;guava jelly;clotted cream mousse;chocolate fudge;cocoa powder
+11,8,Hermine,STARBAKER,No,3,No,cinnamon;passion fruit jelly;meringue;lime zest,chocolate;kirsch syrup;chocolate mousse;strawberry mousse;white chocolate ganache
+11,8,Laura,IN,No,1,No,honey;oat;vanilla;passion fruit curd;passion fruit extract,raspberry mousse;white chocolate bavarois;jelly
+11,8,Linda,NULL,NULL,NULL,NULL,NULL,NULL
+11,8,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,8,Lottie,NULL,NULL,NULL,NULL,NULL,NULL
+11,8,Makbul,NULL,NULL,NULL,NULL,NULL,NULL
+11,8,Marc,OUT,No,2,No,pecans;glazed apricots;almond;praline;vanilla mascarpone,panna cotta;apple jelly;chocolate mousse;strawberry mousse;hazelnut meringue
+11,8,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+11,8,Peter,IN,No,4,No,lime curd;toasted oat;gingernut;crystallised ginger;lime,orange extract;cranberry extract
+11,8,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+11,8,Sura,NULL,NULL,NULL,NULL,NULL,NULL
+11,9,Dave,IN,No,3,No,honey tequilla;mango and passion fruit curd;honey and cocoa chantilly cream;chocolate,chocolate mousse;white chocolate;milk chocolate;dark chocolate;caramel;coffee;hazelnut
+11,9,Hermine,OUT,No,2,No,vanilla crème patissiere;apricot glaze;chantilly cream;chocolate,freeze-dried raspberries;coffee and praline mousse;joconde sponge;cherry sponge
+11,9,Laura,IN,No,4,No,pineapple;kiwi;passion fruit;rum syrup;chantilly cream,dark chocolate;dark chocolate mousse;cherry;kirsch;white chocolate bavois
+11,9,Linda,NULL,NULL,NULL,NULL,NULL,NULL
+11,9,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,9,Lottie,NULL,NULL,NULL,NULL,NULL,NULL
+11,9,Makbul,NULL,NULL,NULL,NULL,NULL,NULL
+11,9,Marc,NULL,NULL,NULL,NULL,NULL,NULL
+11,9,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+11,9,Peter,STARBAKER,No,1,No,elderflower syrup;strawberries;strawberry crème diplomat;elderflower and lemon crème diplomat,chocolate;freeze-dried raspberry;pistachio praline;chocolate mousse;raspberry mousse;pistachio mousse
+11,9,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+11,9,Sura,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Dave,RUNNERUP,No,1,No,coffee custard;caramel;hazelnut,amaretto syrup;strawberry;crème mousseline;chocolate;raspberry crème patissiere;brownies;macadamia nuts;white chocolate
+11,10,Hermine,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Laura,RUNNERUP,No,3,No,chantilly cream;yuzu custard;raspberry;lemon and coconut gel;lime juice,carrot;walnut;orange and cinnamon cream cheese frosting;chocolate;spices;lemon;lime
+11,10,Linda,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Loriea,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Lottie,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Makbul,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Marc,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Mark,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Peter,WINNER,No,2,No,raspberry crème patissiere;whiskey crème patissiere;caramelised oat,puffed rice;spiced friands;chocolate;orange;strawberry;lemon and blackberry crème diplomat;strawberry cream
+11,10,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+11,10,Sura,NULL,NULL,NULL,NULL,NULL,NULL
+12,1,Amanda,IN,No,12,No,Coffee;cherry;dark chocolate,lemon and elderflower sponge;elderflower liqueur buttercream;lemon curd
+12,1,Chigs,IN,No,11,No,Chocolate and vanilla sponge;strawberry;strawberry Chantilly cream;pistachio,Peanut butter and chocolate butter cream;chocolate sponge;
+12,1,Crystelle,IN,No,8,No,Jaggery(Unrefined sugar);Chai;Coconut;cinnamon;clove;cardamom;ginger,Cinnamon sponge;Italian meringue buttercream;roasted pecan;puffed rice marshmallow
+12,1,Freya,IN,No,2,No,Aquafaba;lemon;raspberry;almond praline;vegan buttercream,Vegan Chocolate sponge;kirsch cream;cherry jam;vegan buttercream
+12,1,George,IN,No,3,No,Milk chocolate mini rolls;hazelnut bavarois;hazelnut,Lemon sponge;Italian meringue buttercream;fig jam
+12,1,Giuseppe,IN,No,10,No,Almond and orange sponge;ricotta cheese;orange blossom water;white chocolate,Chocolate sponge;cream cheese buttercream;raspberry coulis
+12,1,Jairzeno,IN,No,9,No,Passionfruit caramel buttercream;lime and chili sponge;caramel,Chili and Lime sponge;Guava buttercream
+12,1,Jurgen,STARBAKER,No,6,No,chocolate genoise sponge;kirsch cream;sour cherry,Orange and cardamom chiffon sponge;honey and rose butter cream;pistachio praline
+12,1,Lizzie,IN,No,4,No,White chocolate;coffee sponge;tahini caramel,Yuzu sponge;peach jam;vanilla mascarpone cream
+12,1,Maggie,IN,No,1,No,Meringue;dark chocolate;orange;milk chocolate,Vanilla sponge;raspberry buttercream;
+12,1,Rochica,IN,No,7,No,Carrot;spelt flour;pecan brittle;cinnamon and vanilla cream,Caramel and spiced apple sponge;spiced apple filling;browned buttercream
+12,1,Tom,OUT,No,5,No,Chocolate genoise sponge;cherry jam;dark chocolate;white cocolate,Almond and lemon sponge;almond buttercream
+12,2,Amanda,IN,No,4,No,Sesame;orange curd;stem ginger cream;,lemon and cardamom sugar biscuit
+12,2,Chigs,IN,No,7,No,Coffee liqueur;espresso;ginger;cinnamon;dark chocolate,Spiced gingerbread;icing;marshmallow fondant
+12,2,Crystelle,IN,No,10,No,Apple cider vinegar;crumble topping;apple filling;vanilla Chantilly cream,Lemon and poppy seed biscuit;gingerbread;isomalt
+12,2,Freya,IN,No,3,No,Hazelnut praline;coffee liqueur;coconut-based vegan coffee cream,Brandy snap;crisp gingerbread;
+12,2,George,IN,No,8,No,mastic(tree resin) and orange blossom cream;pistachios,Brandy kourabiedes;gingerbread;candy floss
+12,2,Giuseppe,IN,No,2,No,Hazelnut butter;chocolate creme pat;hazelnut;,Chocolate and orange sable;ganache;gingerbread
+12,2,Jairzeno,OUT,No,9,No,Dark chocolate and lime ganache;spiced pineapple;passion fruit curd,Spiced gingerbread
+12,2,Jurgen,STARBAKER,No,1,No,Chai creme pat;cinnamon;cardamom;clove;mango;whipped cream,Spiced scandinavian gingerbread;Tuile
+12,2,Lizzie,IN,No,6,No,Creme diplomat;apple;calvados brandy;,Chocolate gingerbread;mint sweets;rum royal icing
+12,2,Maggie,IN,No,5,No,Creme de cassis;blackcurrant;blackcurrant chantilly,Classic gingerbread;biscuit
+12,2,Rochica,IN,No,11,No,Espresso;irish cream filling;chocolate;roasted hazelnuts,Lemon shortbread;marshmallow and rice cereal;gingerbread
+12,2,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+12,3,Amanda,IN,No,3,No,Olives;red peppers;garlic cream cheese;herbs;feta cheese;garlic,Cinnamon;coconut creme pat;mango puree
+12,3,Chigs,IN,No,6,No,Chorizo;manchego cheese;spicy piquant peppers,Orange blossom;honey
+12,3,Crystelle,IN,No,9,No,Roasted grape;feta;roasted walnuts;fresh fennel,Lemon;maple;chocolate hazelnut;frangipane;salted caramel gravy;lime curd;carrot
+12,3,Freya,IN,No,4,No,Smoked paprika;cayenne pepper;red onion;pepper,Soy milk;dry coconut milk powder;hazelnut praline;marzipan;chocolate
+12,3,George,IN,No,7,No,Onion;parsley;olives;halloumi cheese;dried mint;cherry kernel ,Cinnamon;chocolate;tahini
+12,3,Giuseppe,STARBAKER,Yes,1,No,Olives;Cherry tomatoes;milk;balsamic vinegar;onions,Orange zest;cinnamon;orange extract;orange liqueur;honey 
+12,3,Jairzeno,NULL,NULL,NULL,NULL,NULL,NULL
+12,3,Jurgen,IN,No,5,No,Chopped kipper;romano red pepper;tarragon;boiled eggs,Double cream;vanilla creme mousse line;chocolate creme mousse line;
+12,3,Lizzie,IN,No,2,No,Truffle oil;black truffle;garlic;rosemary,Honey;mango tea;condensed milk
+12,3,Maggie,IN,No,8,No,Olives;cherry tomatoes;sun-dried tomatoes;basil;garlic,Dulce Seaweed;royal icing;milk
+12,3,Rochica,OUT,No,10,No,Garlic;pesto;tomatoes;spring onions;all spice;garlic;red onions;basil;feta cheese;honey;black pepper;,Whole milk;milk powder;cinnamon;nutmeg;chocolate and hazelnut praline;pineapple curd;
+12,3,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+12,4,Amanda,IN,No,8,No,Chocolate mascarpone cream;raspberry curd;meringue,Maple;almond joconde;caramelized apple jelly;calvados bavarois
+12,4,Chigs,STARBAKER,Yes,3,No,Chantilly cream;chocolate;passion fruit;mango;mango coulis,Cherry soaked chocolate joconde;chocolate bavarois;cherry mousse;cherry jelly
+12,4,Crystelle,IN,No,5,No,Lime curd;kiwi;coconut crumble;meringue,almond and pineapple joconde;coconut rum compote;pineapple;coconut sable;coconut bavarois;lime jelly
+12,4,Freya,IN,No,6,No,Orange blossom extract;aguafaba meringue;raspberry coulis;caramelized peaches,Chocolate and orange mousse;dark chocolate;orange jelly;hazelnut dacquoise;vegan Italian meringue buttercream
+12,4,George,IN,No,7,No,Lemon curd;speculums whipped cream,almond joconde;caramel chocolate mousse;candied peanut;peanut butter bavarois
+12,4,Giuseppe,IN,No,4,No,Peach;coconut Chantilly cream;nectarine;passion fruit;peach cremeux and coulis;French meringue,Genoise sponge;strawberry;raspberry;pistachio;red fruit bavarois
+12,4,Jairzeno,NULL,NULL,NULL,NULL,NULL,NULL
+12,4,Jurgen,IN,No,1,No,matza(unleavened bread);chocolate;date;orange;cinnamon;cardamom;vanilla cream,Almond joconde;English white wine jelly;fresh strawberry;mint;caramelized hazelnut dacquoise;black pepper;white chocolate bavarois
+12,4,Lizzie,IN,No,2,No,Blueberry;rosemary creme diplomat;lemon curd,Hazelnut joconde;pecan;caramel;chocolate genoise sponge;dark chocolate;chocolate ganache
+12,4,Maggie,OUT,No,9,No,Meringue;raspberry syrup;passion fruit cream,Yoghurt;strawberry;strawberry joconde;strawberry bavarois;strawberry coulis 
+12,4,Rochica,NULL,NULL,NULL,NULL,NULL,NULL
+12,4,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+12,5,Amanda,IN,No,8,No,Mulled wine jam;almond vanilla shortbread,Rum-soaked raisin;caramelized spiced plums
+12,5,Chigs,IN,No,2,No,Orange zest;chocolate;flaked almonds,Honey;almond;pecan;walnut;chocolate;white chocolate honey comb;lemon creme diplomat;candied peel
+12,5,Crystelle,IN,No,7,No,brown butter shortbread;cardamom;pistachio;white chocolate,Caramelized apple;vanilla creme diplomat;chocolate orange creme diplomat;marzipan
+12,5,Freya,OUT,No,5,No,Glace cherry;vegan meringue,Spiced red wine syrup;wine poached plum
+12,5,George,IN,No,6,No,Aniseed;nutmeg,Chocolate;tahini;vanilla icing
+12,5,Giuseppe,STARBAKER,No,1,No,Pisto spice(cinnamon;aniseed;black pepper;clove);strawberry jam;candied orange peel,Amarena-soaked cherry;honey glaze;creme patisserie
+12,5,Jairzeno,NULL,NULL,NULL,NULL,NULL,NULL
+12,5,Jurgen,IN,Yes,4,No,Espresso biscuit;white chocolate;dark chocolate,Apricot and poppy seed jam;chocolate raisins;stout flavored dough
+12,5,Lizzie,IN,No,3,No,Apple and cardamom jam;mixed spice,Gin-soaked raisins;cinnamon;cream cheese frosting;pineapple flowers;orange blossom
+12,5,Maggie,NULL,NULL,NULL,NULL,NULL,NULL
+12,5,Rochica,NULL,NULL,NULL,NULL,NULL,NULL
+12,5,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+12,6,Amanda,OUT,No,5,No,Bacon;maple syrup;pistachio creme patisserie;rose,Bacon;cherry;pistachio;chicken pate;fennel sausage meat
+12,6,Chigs,IN,No,3,No,Cocoa powder;lime glaze;hazelnut praline,Pork;apricot;gherkin;chicken
+12,6,Crystelle,STARBAKER,No,2,Yes,Passionfruit glaze;miso caramel;mango cream,Yam;curry;potato;cumin;chicken;pickling spices;Kashmiri;chili powder;peanut
+12,6,Freya,NULL,NULL,NULL,NULL,NULL,NULL
+12,6,George,IN,No,6,No,Sticky toffee glaze;toffee and nut;jam;cream,bacon;duck;turkey;carrot
+12,6,Giuseppe,IN,No,4,No,Limoncello liqueur;sesame and almond nougatine;creme patisserie,Spinach;cauliflower;dutch cheese;carrot;ham;pecorino cheese;beef;ham;smoked mozzarella
+12,6,Jairzeno,NULL,NULL,NULL,NULL,NULL,NULL
+12,6,Jurgen,IN,No,1,No,Ube extract;yuzu and sake glaze;creme patissiere;orange ganache,Beef;horseradish;sauerkraut;beetroot
+12,6,Lizzie,IN,No,7,No,Raspberry liqueur;hibiscus buttercream;caramel glaze,Potato;salmon;ricotta;spinach
+12,6,Maggie,NULL,NULL,NULL,NULL,NULL,NULL
+12,6,Rochica,NULL,NULL,NULL,NULL,NULL,NULL
+12,6,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+12,7,Amanda,NULL,NULL,NULL,NULL,NULL,NULL
+12,7,Chigs,IN,No,3,No,Chocolate ganache;crystallized ginger,Chocolate;pecan dacquoise;pecan caramel;chocolate pecan ganache;coffee mascarpone mousse;white chocolate caramel glaze
+12,7,Crystelle,IN,No,4,No,Apple;roasted pecan;miso caramel;cinnamon,Miso caramel;caramel mousse;caramel sauce;coffee peanut ganache;peanut biscuit;chocolate mirror glaze
+12,7,Freya,NULL,NULL,NULL,NULL,NULL,NULL
+12,7,George,OUT,No,6,No,Chocolate short pastry;salted caramel custard;banana;whipped creme fraiche,salted caramel Italian meringue buttercream;hazelnut & almond dacquoise;honeycomb;chocolate ganache
+12,7,Giuseppe,IN,No,1,No,Roasted hazelnut;caramelized hazelnut;apricot cremeux;apricot slices,Apricot and caramel glaze;chocolate praline;salted caramel mousse
+12,7,Jairzeno,NULL,NULL,NULL,NULL,NULL,NULL
+12,7,Jurgen,STARBAKER,No,2,No,Pistachio;pecan;walnut;kumquat creme chiboust,Hazelnut praline;caramel bavarois;mango and passionfruit bavarois;passionfruit glaze;chocolate genoise;shortcrust pastry
+12,7,Lizzie,IN,No,5,No,Caramelized pineapple;caramel;Chantilly cream;baked caramel custard,Honeycomb;apple cake;sage-flavored caramel;pecan brittle;toffee
+12,7,Maggie,NULL,NULL,NULL,NULL,NULL,NULL
+12,7,Rochica,NULL,NULL,NULL,NULL,NULL,NULL
+12,7,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+12,8,Amanda,NULL,NULL,NULL,NULL,NULL,NULL
+12,8,Chigs,STARBAKER,No,1,No,Coconut milk;mango;pistachio and cardamom biscuit;vegan white chocolate;lime,Apple cider vinegar;strawberry jam;chocolate;vanilla cream cheese;chocolate cream cheese
+12,8,Crystelle,IN,No,5,No,Cashew milk;coffee;tahini;miso,Coconut and Jaggery creme pat;coconut;walnut;cardamom;cardamom sponge;rice flour
+12,8,Freya,NULL,NULL,NULL,NULL,NULL,NULL
+12,8,George,NULL,NULL,NULL,NULL,NULL,NULL
+12,8,Giuseppe,IN,No,2,No,Tofu;soy milk;crystallized ginger;maple syrup;candied orange peel;orange juice;orange essence;orange zest,Pistachio;puffed rice;chocolate;kirsch cherry jam;Chantilly cream
+12,8,Jairzeno,NULL,NULL,NULL,NULL,NULL,NULL
+12,8,Jurgen,IN,No,4,No,Coconut cream;pistachio and almond macarons;stem ginger;banana,Milk chocolate;white chocolate;dark chocolate;apricot jam
+12,8,Lizzie,OUT,No,3,No,Oat milk;vanilla;almond brittle,Coconut flour;pineapple jam;lime Italian meringue buttercream
+12,8,Maggie,NULL,NULL,NULL,NULL,NULL,NULL
+12,8,Rochica,NULL,NULL,NULL,NULL,NULL,NULL
+12,8,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+12,9,Amanda,NULL,NULL,NULL,NULL,NULL,NULL
+12,9,Chigs,IN,Yes,4,No,Almond;raspberry mousse;raspberry jelly;chocolate ganache,Cinnamon biscuit;caramelized apple;caramel and white chocolate mousse;dark chocolate;hazelnut biscuit
+12,9,Crystelle,STARBAKER,Yes,3,No,Desiccated coconut;black sesame;yuzu curd;almond;white chocolate and coconut Italian meringue buttercream;Chantilly cream,Vanilla and coconut cremeux;mango bavarois;passion fruit jelly;swiss meringue
+12,9,Freya,NULL,NULL,NULL,NULL,NULL,NULL
+12,9,George,NULL,NULL,NULL,NULL,NULL,NULL
+12,9,Giuseppe,IN,Yes,2,No,Coffee;marsala wine;sultana;mascarpone pate a bombe,Puffed rice;marshmallow;chocolate custard;cherry;pine nut bavarois
+12,9,Jairzeno,NULL,NULL,NULL,NULL,NULL,NULL
+12,9,Jurgen,OUT,No,1,No,Beetroot buttercream;cassis buttercream;coffee liqueur;tuile;chocolate glaze,Raspberry jelly;raspberry bavarian;gingerbread;genoise sponge;matcha bavarian mousse;tuile;white chocolate
+12,9,Lizzie,NULL,NULL,NULL,NULL,NULL,NULL
+12,9,Maggie,NULL,NULL,NULL,NULL,NULL,NULL
+12,9,Rochica,NULL,NULL,NULL,NULL,NULL,NULL
+12,9,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,Amanda,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,Chigs,RUNNERUP,No,2,No,Carrot;cream cheese icing;star anise;pineapple jam,Orange curd;strawberry;elder berry;black pepper;chicken and mushroom pie;lemon and lime creme patissiere;orange zest;mascarpone
+12,10,Crystelle,RUNNERUP,No,1,No,Cardamom;pistachio;orange curd;carrot;mascarpone,Za’atar;garlic;chickpea curry;cardamom;pistachio;chai cake
+12,10,Freya,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,George,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,Giuseppe,WINNER,No,3,No,Carrot;fig jam;walnut jam;orange zest;orange cream cheese icing;candied walnuts;figs,Chocolate;hazelnut;mango and passionfruit panna cottas;orange zest;fig;asparagus;pea
+12,10,Jairzeno,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,Jurgen,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,Lizzie,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,Maggie,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,Rochica,NULL,NULL,NULL,NULL,NULL,NULL
+12,10,Tom,NULL,NULL,NULL,NULL,NULL,NULL
+13,1,Abdul,IN,No,6,No,Raspberry jam;mascarpone;chocolate and hazelnut;sponge rosewater buttercream;chili,Mango and saffron jam;masala chai;cashew barfi
+13,1,Carole,IN,No,8,No,Lemon curd;lemon zest;poppy seeds;lemon buttercream,Chicory Coffee;walnut
+13,1,Dawn,IN,No,3,No,tamarind and lime zest jelly;coconut marzipan;coconut milk;desiccated coconut,Praline;apricot puree;German buttercream;vanilla genoise sponge
+13,1,James,IN,No,12,No,Sticky toffee pudding sponge;chopped date;treacle;ginger and apple jam;nutmeg fresh buttercream,Orange zest;cardamom;orange curd;orange blossom buttercream
+13,1,Janusz,STARBAKER,No,7,No,Pistachio cream;cherry;kirsch soaked cherries;cherry liqueur;chocolate ganache,Polish ginger;spices;orange;chocolate sponge;soy sauce 
+13,1,Kevin,IN,No,4,No,Rosewater swiss meringue buttercream;pistachio and almond and cardamom sponge,Banana;maple butter cream;spiced sugar;pecan
+13,1,Maisam,IN,No,5,No,Fresh raspberries;raspberry jam;raspberry Swiss meringue buttercream;pistachios sponge,Lemon;blueberry jam
+13,1,Maxy,IN,No,10,No,Mango and passionfruit coulis;mascarpone;vanilla sponge,Apple and berry compote;cinnamon;crumble
+13,1,Rebs,IN,No,11,No,Chopped hazelnuts;chocolate ganache;caramel;coffee sponge,Coconut rum;pineapple
+13,1,Sandro,IN,No,2,No,Chocolate and orange sponge;dark chocolate;red wine ganache;sugar roses,Strawberry sponge;chantilly cream;strawberry liqueur
+13,1,Syabira,IN,No,1,No,Pandan;coconut;caramel mousse;coconut milk,Milk tea;matcha buttercream;strawberry and cinnamon jam
+13,1,Will,OUT,No,9,No,Ginger powder;fresh ginger syrup;salty caramel Italian meringue buttercream,Chocolate;orange;gingerbread
+13,2,Abdul,IN,No,11,No,Chocolate;coffee;caramel,Gingerbread;sumac shortbread;tahini and sesame biscuit
+13,2,Carole,IN,No,4,No,Sesame seed;chocolate;orange,Orange zest;almond;gingerbread
+13,2,Dawn,IN,Yes,9,No,Mascarpone cream;freeze dried strawberry powder,Gingerbread;lemon shortbread;royal icing
+13,2,James,IN,No,2,No,Raspberry whipped cream;mango extract,Brandysnap;coffee Italian meringue buttercream;spice;chocolate
+13,2,Janusz,IN,No,6,No,Watermelon essence;lemon curd;spinach powder,Spice;matcha;vanilla;strawberry
+13,2,Kevin,IN,No,8,No,Peppermint;dark chocolate,Gingerbread;brandysnap
+13,2,Maisam,OUT,No,7,No,Orange blossom;walnut;mascarpone cream,Gingerbread;royal icing;coconut;lemon
+13,2,Maxy,STARBAKER,Yes,5,No,Raspberry mascarpone cream;salted caramel,Cardamom;macadamia;lime;coconut
+13,2,Rebs,IN,No,1,No,Chocolate ganache;raspberry coulis,Gingerbread;whisky-snap;royal icing
+13,2,Sandro,IN,No,3,No,Chocolate ganache;passion fruit;rum;salted caramel,Gingerbread;strawberry;elderflower;white chocolate
+13,2,Syabira,IN,No,10,No,Tofu;satay sauce,Lemon;jasmine;gingerbread;chocolate;orange;rose;pistachio
+13,2,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,3,Abdul,SKIP,NULL,NULL,NULL,NULL,NULL
+13,3,Carole,IN,No,8,No,Reblochon cheese;gruyere cheese;pancetta;potato;onion,Mackerel;salmon;pumpkin seed;poppy seed;sesame seed;pickled cucumber;pickled egg;beet root
+13,3,Dawn,IN,No,6,No,Stewing steak;onion;fresh chili;mozzarella;sour cream;guacamole,Olive;feta cheese;roast chicken thighs;tzatziki
+13,3,James,IN,No,3,No,Pineapple;pancetta;mushroom;spelt flour,Squid ink;char sui pork;plum sauce
+13,3,Janusz,STARBAKER,No,1,No,Black pudding,Curry powder;fried cod;mayonnaise;potato;mushy pea puree;mayonnaise
+13,3,Kevin,IN,No,7,No,Figs;sweet chili jam;halloumi;balsamic glaze,Mayonnaise;cucumber;salmon;haddock fillets;broccolini;asparagus
+13,3,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,3,Maxy,IN,No,2,No,Rosemary;minced lamb;mushroom,Crayfish;prawn;egg;cress;sunflower seed;pumpkin seed;mayonnaise
+13,3,Rebs,SKIP,NULL,NULL,NULL,NULL,NULL
+13,3,Sandro,IN,No,4,No,Pepper;pineapple;bbq sauce;camembert;honey;spanish chorizo;onion,Maple;bacon;cream cheese;pulled beef brisket;bbq sloppy Joe sauce;sirloin steak
+13,3,Syabira,IN,No,5,No,Stinky bean;sambal paste;prawn;anchovies;onions,Nasi lemak;ginger;coconut;cucumber;chicken;spicy sambal
+13,3,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,4,Abdul,IN,No,6,No,Coconut;raspberry jam;white chocolate buttercream;apricot,Lime zest;white chocolate;passion fruit;coconut;Italian meringue buttercream;lime curd
+13,4,Carole,IN,No,10,No,Aniseed;ground anise;orange,Chocolate;coffee liqueur;chili;orange;lime;hazelnut;caramel
+13,4,Dawn,IN,No,5,No,Chopped bird’s eye chilli;chocolate ganache,Coffee creme mousseline;dark chocolate;vanilla;Chantilly cream;amaretto creme patisserie
+13,4,James,OUT,No,8,No,Vanilla;cinnamon;coffee;chocolate;caramel,Chili;white chocolate;lemon;lime;vanilla;dulce de leche;chocolate;strawberry
+13,4,Janusz,IN,No,7,No,Lime craquelin;coconut milk,Dragon fruit;whipping cream;evaporated milk;coconut milk;mango;lemon;passion fruit;guava
+13,4,Kevin,IN,No,4,No,Rum syrup;lemon;star anise;rum butter;coconut,Coffee milk;hazelnut praline cream;vanilla;chili chocolate ganache
+13,4,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,4,Maxy,STARBAKER,No,1,No,Orange;cinnamon;cinnamon chantilly cream,Chocolate;strawberry;vanilla;Italian meringue buttercream;cinnamon;double cream;evaporated milk;condensed milk
+13,4,Rebs,OUT,No,9,No,Lemon;vanilla;whipped cream;lemon curd,Mexican coffee liqueur;tequila;almond;cocoa;mascarpone cream;chili chocolate ganache
+13,4,Sandro,IN,No,3,No,Caramel;hazelnut;coffee;praline custard,White chocolate;chocolate ganache;cherry compote;chili chocolate coffee sponge;Irish cream soak;spiced chocolate sponge;coffee and cherry soak
+13,4,Syabira,IN,No,2,No,Boiled egg;corn;cinnamon;coconut,Sweetcorn;swiss meringue;cinnamon;cream cheese
+13,4,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,5,Abdul,IN,No,2,No,Fig;white chocolate;rose petal;pistachio;date;saffron;cardamom,White chocolate;almond crunch;blackberry mousse;yuzu curd;mirror glaze
+13,5,Carole,OUT,No,6,No,Plum;ginger;chantilly cream,Chocolate;strawberry;strawberry mousse
+13,5,Dawn,IN,No,7,No,Caramel;orange;apple;creme anglaise,Lemon jelly;hazelnut dacquoise;lime yogurt mousse;raspberry mousse;basil
+13,5,James,NULL,NULL,NULL,NULL,NULL,NULL
+13,5,Janusz,IN,No,1,No,Coconut creme anglaise;coconut;caramelized pineapples;coconut rum,Chocolate mousse;white chocolate
+13,5,Kevin,IN,No,5,No,Fruit;whiskey;creme anglaise,Creme mousseline;banana mousse;chocolate mousse;buttercream
+13,5,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,5,Maxy,IN,No,3,No,Candied pecan;date;toffee;caramel;raspberry;whipped cream,Lemon curd;swiss roll;vanilla mousse;strawberry mousse
+13,5,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
+13,5,Sandro,STARBAKER,No,4,No,Cherry;apple;crumble;caramel;cherry liqeuer,Panna cotta;passion fruit;lemon;white chocolate;prosecco jelly;strawberry;blueberry
+13,5,Syabira,IN,No,8,No,Watermelon essense;caramel;coconut;tapioca;taro;lychee custard,Melon mousse;jasmine jelly
+13,5,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,6,Abdul,IN,No,7,No,Caramel;honeycrisp apple;almond;cream cheese;chocolate,Cinnamon;allspice;ginger;nutmeg;brandy snaps;white chocolate;matcha;rosewater;almond;cardamom;date
+13,6,Carole,NULL,NULL,NULL,NULL,NULL,NULL
+13,6,Dawn,OUT,No,5,No,Sliced green apple;toffee;blood orange juice,Carbon black cocoa powder;cardamom;raspberry jelly;brandy ganache;tuile
+13,6,James,NULL,NULL,NULL,NULL,NULL,NULL
+13,6,Janusz,IN,No,2,No,Pink apple;caramel;ginger;nutmeg;all spice;chocolate;cinnamon;clove,White chocolate;almond;almond flour;almond extract;clove;nutmeg;ginger;cinnamon;pumpkin;pistachio;cricket powder;smoked cricket
+13,6,Kevin,IN,No,3,No,Almond;cream cheese;Braeburn apple;streusel;bourbon;spiced cider;caramel,Orange zest;5 spice;apple puree;creme mousseline;marshmallow;toffee;peanut;chocolate ganache
+13,6,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,6,Maxy,IN,No,6,No,Pink apple;green apple;cream cheese;walnut;spice;apple puree;salted caramel,Orange zest;pumpkin;chocolate;cinnamon;ginger;clove;nutmeg;hazelnut
+13,6,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
+13,6,Sandro,IN,No,4,No,Bramley apples;cinnamon whiskey;caramel;spice;walnut crumble,Chocolate;candied orange;hazelnuts;espresso;cayenne pepper
+13,6,Syabira,STARBAKER,No,1,No,Chili;green apple;pink apple;sour plum;cream cheese,Coriander;cinnamon;clove;star anise;peanut;almond;white truffle maple syrup;orange zest
+13,6,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,7,Abdul,IN,No,4,No,Orange zest;vanilla;pistachio praline;caramelized sugar;cherry coulis,Chocolate creme patissiere;vanilla creme diplomat;raspberry;lime zest;strawberry;caramelized peach
+13,7,Carole,NULL,NULL,NULL,NULL,NULL,NULL
+13,7,Dawn,NULL,NULL,NULL,NULL,NULL,NULL
+13,7,James,NULL,NULL,NULL,NULL,NULL,NULL
+13,7,Janusz,IN,No,5,No,Coffee;vanilla;orange zest,strawberry;dark chocolate;ruby chocolate;white chocolate;vanilla;condensed milk;limoncello
+13,7,Kevin,OUT,No,3,No,lychee;prosecco;raspberry puree;tuile,Bay leave;thyme;honey;nectarine;raspberry;Swiss meringue buttercream;prosecco
+13,7,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,7,Maxy,IN,No,2,No,Pistachio;blueberry;caramelized sugar,Coconut;almond;lime;passion fruit;Italian meringue buttercream;tuile biscuit;mango;pineapple;vanilla
+13,7,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
+13,7,Sandro,IN,No,1,No,Cardamom;cherry jelly;caramelized hazelnut & almond;dark chocolate;brandy;prosecco,Mango;coconut;vanilla;coffee;rosewater;orange
+13,7,Syabira,STARBAKER,No,6,No,Crumble;mint;lime zest;rum,Pineapple;coconut rum creme legere;pineapple creme patissiere;lime
+13,7,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,8,Abdul,IN,No,3,No,Strawberry; dark chocolate; coconut creme patissiere; berry compote; coconut extract; kiwi,Aubergine and potato curry; apple; blackberry; chana dal
+13,8,Carole,NULL,NULL,NULL,NULL,NULL,NULL
+13,8,Dawn,NULL,NULL,NULL,NULL,NULL,NULL
+13,8,James,NULL,NULL,NULL,NULL,NULL,NULL
+13,8,Janusz,IN,No,2,No,Strawberry; whipped cream; fruit liqueur glaze,Spinach; onion; mustard; parsley; pepper; ground pork; salmon; dauphinoise potato; apple
+13,8,Kevin,NULL,NULL,NULL,NULL,NULL,NULL
+13,8,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,8,Maxy,OUT,No,5,No,Chantilly cream; strawberry; raspberry; gooseberry and cloudberry jam; elderflower syrup,Chicken; strawberry; creme legere; red pepper; bay leaf; clove; string beans; spinach
+13,8,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
+13,8,Sandro,IN,No,1,No,Lime cream patissiere; lime jam; ginger biscuit,Watermelon; spicy chorizo; beef; pear; cherry; plum
+13,8,Syabira,STARBAKER,No,4,No,Orange; mandarin; clove; cardamom; cream cheese; orange liqueur; pecan praline; whipping cream,Red onion; Malaysian potato curry; chicken rendang
+13,8,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,9,Abdul,STARBAKER,No,2,No,Raspberry; pistachio; mascarpone cream; coffee creme chiboust,Lemon zest; lemon extract; orange; marzipan; caramel; pistachio;
+13,9,Carole,NULL,NULL,NULL,NULL,NULL,NULL
+13,9,Dawn,NULL,NULL,NULL,NULL,NULL,NULL
+13,9,James,NULL,NULL,NULL,NULL,NULL,NULL
+13,9,Janusz,OUT,No,3,No,Plum; dark chocolate; hazelnut custard,Almond; rose; gin
+13,9,Kevin,NULL,NULL,NULL,NULL,NULL,NULL
+13,9,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,9,Maxy,NULL,NULL,NULL,NULL,NULL,NULL
+13,9,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
+13,9,Sandro,IN,No,4,No,Dried banana; banana; peanut; caramel; praline crumble; chocolate ganache; peanut butter,Raspberry; pistachio; rhubarb; custard; marzipan
+13,9,Syabira,IN,No,1,No,strawberry; peanut butter; blackberry; cream cheese,Pistachio; almond; rose; marzipan
+13,9,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Abdul,RUNNERUP,No,1,No,Feta cheese; leek; onion; rocket; mint; carrot; beetroot; cream cheese; dill; cherry; tarragon; chive,Honey; blackberry; raspberry; elderflower; almond; Italian meringue buttercream; strawberry
+13,10,Carole,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Dawn,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,James,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Janusz,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Kevin,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Maxy,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Sandro,RUNNERUP,No,3,No,Cauliflower; garlic; egg; water cress; lemon; elder flower; blueberry jam; blueberry; raspberry; strawberry; mustard; cream cheese,Lemon; plum compote; honey; white chocolate; raspberry; blueberry; cream
+13,10,Syabira,WINNER,No,2,No,Aubergine; mushroom; quail’s egg; piccalilli; salsa verde; broad bean; strawberry jam; rosemary cream; coriander,Black pepper; blackberry jam; chocolate and hazelnut; Tarragon; strawberry; rhubarb; chocolate; buttercream; gooseberry
+13,10,Will,NULL,NULL,NULL,NULL,NULL,NULL
