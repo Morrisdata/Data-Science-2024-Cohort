@@ -34,7 +34,7 @@ Course outline may adjust depending on time. There is a lot of content to cover 
 |DATE|CLASS|DATE|CLASS|
 |:---|:----|:---|:----|
 01|Orientation and Review [home](https://github.com/Morrisdata/DS/tree/master/01_Welcome_To_Data_Science), [slides](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf)|02|Development Environment [Home](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/readme.md)|
-|03|Jupyter Numpy Pandas[home](https://github.com/Morrisdata/DS/tree/master/03_Jupyter_Numpy_Pandas)|04|Lab Presentations Catchup|
+|03|Jupyter Numpy Pandas [home](https://github.com/Morrisdata/DS/tree/master/03_Jupyter_Numpy_Pandas)|04|Lab Presentations Catchup|
 |05|Exploratory Data Analysis(EDA) in Pandas|06|Data Visualization in Python|
 |07|Statistics in Python|08|Experiments and Hypothesis Testing|
 |09|Presentations|10|Linear Regression|
