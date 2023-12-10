@@ -24,6 +24,7 @@ The 4 units will be accented with workstyled meetings.
 - 1/16  Chiptle EDA with Python update & Final Project + Dataset proposal
 - 1/30  Project EDA Brief, Linear regression Lunch and Learn(demo and knowledge share)
 - 2/22 Proof of concept with tech team and executive sponsors.
+
   
 - **Updating** your team on what you understand about the data.
 - **Proposal** making a use case and seeking feedback from your team before moving forward.
