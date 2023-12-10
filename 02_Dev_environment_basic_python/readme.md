@@ -22,7 +22,8 @@ There are however several Units to increase your Python Skills and continue buil
 
 |Workbooks | Cheatsheet|Basic Drill|Advanced Drill|
 |:-------|:-----|:-----|:-----|
-|[Sublime cheatsheet](|[Additional practice](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/practice.py)||||||
+|[Sublime cheatsheet](https://github.com/Morrisdata/Data-Science-2024-Cohort/blob/master/02_Dev_environment_basic_python/code/SUBLIME%20Text%203.pdf)||||||
+|[Additional practice](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/practice.py)||||||
 |[Basic Syntax](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit01a_Worksheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit01b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit01c_Drill_Basic.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit01d_Drill_Advanced.py)|
 |[Basic Math, 3 Value Logic](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit02a_Worksheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit02b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit02c_Drill_Basic.py)||
 |[Functions](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit03a_Worksheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit03b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit03c_Basic_Drills.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit03d_Advanced_Drills.py)|
