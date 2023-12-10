@@ -1,8 +1,8 @@
 ### Class 2: Development Environment, Python Basics
 We will be confirming that all students can connect to and have access to all applications, data, and python environments are working properly. 
 
-There are several workbooks that can be reviewed and walked through. In class we will be reviewing unit 1 and unit 4. 
-These 8 units are for students to download and continue building on for their own studies and practices. It is built as a loop and allows for adding additional content as your knowledge grows. 
+There are several workbooks that can be reviewed and walked through. In class we will be reviewing Units on basic intro to Python and connecting to data through Python. 
+There are however several Units to increase your Python Skills and continue building on. The units are built as a loop and allows for adding additional content as your knowledge grows. 
 
 **Student Prework**
   Complete or near completion of python pre-work.
