@@ -18,8 +18,8 @@ Class times
 Tuesday PST: 4-7
 Thursday PST:4-7
 
-PROJECT DATES
-The 4 units will be accented with workstyled meetings, which some are like presentations.
+### PROJECT DATES
+The 4 units will be accented with workstyled meetings.
 - **Updating** your team on what you understand about the data.
 - **Proposal** making a use case and seeking feedback from your team before moving forward.
 - **Brief** Write up with stats about progress with project, blockers, challenges and refined scope
