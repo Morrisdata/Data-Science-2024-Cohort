@@ -22,6 +22,7 @@ There are however several Units to increase your Python Skills and continue buil
 
 |Workbooks | Cheatsheet|Basic Drill|Advanced Drill|
 |:-------|:-----|:-----|:-----|
+|[Sublime cheatsheet](|[Additional practice](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/practice.py)||||||
 |[Basic Syntax](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit01a_Worksheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit01b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit01c_Drill_Basic.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit01d_Drill_Advanced.py)|
 |[Basic Math, 3 Value Logic](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit02a_Worksheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit02b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit02c_Drill_Basic.py)||
 |[Functions](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit03a_Worksheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit03b_Cheatsheet.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit03c_Basic_Drills.py)|[link](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit03d_Advanced_Drills.py)|
@@ -32,3 +33,5 @@ There are however several Units to increase your Python Skills and continue buil
 |[More Loops](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit08a_Worksheet.py)||||||
 |[Putting it all together](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/PD01Unit08_Putting_it_all_together.py)||||||
 |[Additional practice](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/code/practice.py)||||||
+
+
