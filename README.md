@@ -44,7 +44,7 @@ Slack
 Email
 
 * Get a head start
-  - [class data](https://github.com/Morrisdata/data](https://github.com/Morrisdata/Data-Science-2024-Cohort/tree/master/Data)
+  - [class data](https://github.com/Morrisdata/Data-Science-2024-Cohort/tree/master/Data)
   - [public_data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
   - [Anaconda](https://www.anaconda.com/download)
 
