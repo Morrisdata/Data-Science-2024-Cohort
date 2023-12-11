@@ -98,7 +98,7 @@ Download [Anaconda with python 3.6 or 7](https://www.continuum.io/downloads), Py
 |[Research Computing Python Data PYNBs](https://github.com/ResearchComputing/Meetup-Fall-2013/tree/master/python) | A super awesome set of python notebooks from a meetup-based course exclusively devoted to pandas|
 
 
-*** more resources ***
+**more resources**
 * Review each concept and each line of code in these files of python code:
   - [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py)
   - [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py).
