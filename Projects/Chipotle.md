@@ -1,5 +1,7 @@
 **Chipotle Obtain and Understand data update**
+
 [data](https://github.com/Morrisdata/Data-Science-2024-Cohort/blob/master/Data/chipotle(1).csv)
+
 5-10 minutes status update per student. 
 
 Using python or python in jupyter connect to the chipotle dataset and answer the following questions. 
