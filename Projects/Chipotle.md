@@ -23,7 +23,7 @@ Read in the Chipotle data
         Expected output: {'Chips and Roasted Chili-Corn Salsa': 18, ... }
       Note: Please take the 'quantity' column into account!
       Optional: Learn how to use 'defaultdict' to simplify your code.
-- 7 Recommended Next steps(Data cleaning, Predictive Ideas, App dev etc.)
+- 7 Recommended Next steps(Are there issues or opportunities in the data or business for insight, Data cleaning, Predictive Ideas, App dev etc.)
 - 8 Bonus Curiosity Observation. What did you observe about the events in the data
 
 - 9 Optional Connect to the Chipotle dataset and run similiar calcs to begin summarizing and understanding the data. 
