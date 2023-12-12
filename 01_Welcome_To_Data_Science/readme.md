@@ -14,7 +14,7 @@ Before this lesson you should already be able to:
 
 **Topics/Highlights**
 * Welcome from General Assembly!
-* Slides ([01_Welcome to Data Science.pdf](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf))
+* [Slides](01_Welcome to Data Science.pdf](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf)
 * Get a head start
   - [class data](https://github.com/Morrisdata/data)
   - [public_data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
