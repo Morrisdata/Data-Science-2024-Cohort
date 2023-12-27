@@ -53,8 +53,8 @@ Course outline may adjust depending on time. There is a lot of content to cover 
 |:---|:----|:---|:----|
 01|Orientation and Review [home](https://github.com/Morrisdata/DS/tree/master/01_Welcome_To_Data_Science), [slides](https://github.com/Morrisdata/DS/blob/master/01_Welcome_To_Data_Science/GA%20Data%20Science%202024%20-%2001%20Welcome%20To%20Data%20Science.pdf)|02|Development Environment [home](https://github.com/Morrisdata/DS/blob/master/02_Dev_environment_basic_python/readme.md), [slides](https://github.com/Morrisdata/Data-Science-2024-Cohort/blob/master/02_Dev_environment_basic_python/GA%20Data%20Science%202024%2002%20Development%20Environment.pdf)|
 |03|Jupyter Numpy Pandas [home](https://github.com/Morrisdata/DS/tree/master/03_Jupyter_Numpy_Pandas), [slides](https://github.com/Morrisdata/Data-Science-2024-Cohort/blob/master/03_Jupyter_Numpy_Pandas/GA%20Data%20Science%202024%2003%20Jupyter%5EJ%20Numpy%5EJ%20Pandas.pdf)|04|Lab Presentations Catchup [slides](https://github.com/Morrisdata/Data-Science-2024-Cohort/blob/master/04_Presentations_Developing_Questions/GA%20Data%20Science%202024%2004%20Presentations%20and%20Lab.pdf)|
-|05|Exploratory Data Analysis(EDA) in Pandas|06|Data Visualization in Python|
-|07|Statistics in Python|08|Experiments and Hypothesis Testing|
+|05|Intro Exploratory Data Analysis(EDA) in Pandas|06|Statistics in Python|
+|07|More EDA Data Visualization in Python|08|Experiments and Hypothesis Testing|
 |09|Presentations|10|Linear Regression|
 |11|Train-Test Split & Bias Variance|12|KNN/ Classification|
 |13|Logistic Regression|14|Presentations|
