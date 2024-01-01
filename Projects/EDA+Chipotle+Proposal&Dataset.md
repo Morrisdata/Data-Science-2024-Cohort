@@ -17,4 +17,5 @@ Ask Who, What, Where, When, Why, Why? Why? Why? Why
 
 - You can present answers to these questions and a basic EDA to your data as a PDF from Jupyter notebook. 
 
-- Students listening to proposal should be seeking to provide constructive feedback, insights other questions or protips. Remember this is a team meeting and teams sink or rise together. That student presenting needs your input. 
+- Students listening to proposal should be seeking to provide constructive feedback, insights, ideas, other questions or protips.
+- Remember these are mock team meetings and teams sink or rise together. That student presenting needs your input. 
