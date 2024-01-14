@@ -1,5 +1,5 @@
 Complete an IDA and EDA of your final dataset
-* Include documentation on cleaning performed
+* Include documentation on cleaning performed and recommend future cleaning. 
 * Include observations about data
 * Include tests/evaluations of data and final prepared data.
 * Include next steps.
