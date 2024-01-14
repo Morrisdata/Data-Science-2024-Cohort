@@ -1,4 +1,4 @@
-* Complete an IDA and EDA of your final dataset
+Complete an IDA and EDA of your final dataset
 * Include documentation on cleaning performed
 * Include observations about data
 * Include tests/evaluations of data and final prepared data.
