@@ -22,7 +22,7 @@ Thursday PST:4-7
 The 4 units will be accented with workstyled meetings.
 - 12/21 Chipotle Obtain and Understand data update
 - 1/16  Chiptle EDA with Python update & Final Project + Dataset proposal
-- 1/30  Project EDA Brief, Linear regression Lunch and Learn(demo and knowledge share)
+- 2/1  Project EDA Brief, Linear regression Lunch and Learn(demo and knowledge share)
 - 2/22 Proof of concept with tech team and executive sponsors.
 
   
